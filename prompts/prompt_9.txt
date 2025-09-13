@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Éric Jalton
+Paragraphe: Début juin 2021, il est mis en examen par le parquet de Pointe-à-Pitre pour « obtention de suffrages ou de votes à l'aide de dons ou de promesses […], trafic d'influence passif par personne investie d'un mandat électif » et « abus de confiance ». Il aurait notamment fait bitumer des routes privées juste avant la campagne de 2014. L'entrepreneur Sylvère Fifi aurait, en outre, reçu des contrats d'enrobage en contrepartie d'un financement électoral. Fifi est mis en examen également pour « trafic d'influence actif sur personne investie d'un mandat public et pour faux en l'espèce des surfacturations présumées ». Enfin, Éric Jalton aurait utilisé les fonds de la FRAPP pour le financement de sa campagne. Le mandataire financier du parti, Frantz Velayoudom, est mis en examen pour « abus de confiance et faux ». 
+
+Personne: Daniel Grenon
+Paragraphe: Le 18 avril 2025, le député passe devant le tribunal de Sens et assume ses propos. Daniel Grenon se défend de tout racisme et affirme avoir été « piégé » par le journaliste, qui lui a soumis l’exemple des « Franco-Maghrébins » concernant les binationaux. Le procureur requiert une amende de 1 500 euros. Le 2 mai 2025, le tribunal le juge coupable de propos discriminatoires et le condamne à une amende de 3 000 euros et 1500 euros de dommages et intérêts à chacune des trois parties civiles.
+
+Personne: Philippe Auberger
+Paragraphe: Trois jours avant le second tour des élections municipales de mars 2008, Philippe Auberger se trouve au centre d'une polémique après la diffusion d'une lettre « mettant intimement en cause sa vie privée » auprès de commerçants, d'entreprises, d'écoles et de professions libérales de la ville. La diffusion de cette lettre conduit le tribunal administratif de Dijon à annuler les élections municipales de mars 2008.
+
+Personne: Guy Teissier
+Paragraphe: Guy Teissier s’engage dans la bataille des législatives en 1988 : élu en juin contre l’homme d’affaires Bernard Tapie dans la 6e circonscription des Bouches-du-Rhône, à Marseille, l’élection est annulée en novembre par le Conseil constitutionnel.
+
+Personne: François-Xavier Villain
+Paragraphe: Le 9 novembre 2017, la Haute Autorité pour la transparence de la vie publique (HATVP) dépose contre François-Xavier Villain une plainte qui « estime, au regard des différents éléments dont elle a connaissance, qu'il existe en l'état un doute sérieux quant à l'exhaustivité, l'exactitude et la sincérité de ces déclarations ». Le 2 mars 2021, il est condamné à deux mois de prison avec sursis et 10 000 euros d'amende, ainsi qu'à un an d'inéligibilité, jugement dont il fait appel. Le 31 mai 2023, en appel, il est condamné à 20 000 euros d'amende, sans la peine d'inéligibilité prononcée en première instance.
+
+Personne: Thomas Portes
+Paragraphe: Thomas Portes a été renvoyé devant le tribunal correctionnel pour diffamation le 7 juillet 2025, à la suite d’un tweet publié le 14 mai 2024 sur le réseau X. Dans ce message, il accusait le collectif juif Nous vivrons (fondé après les attaques du Hamas du 7 octobre 2023) de constituer « un groupuscule violent et raciste », de soutenir les « crimes de guerre israéliens » et de « promouvoir le génocide » . Le collectif avait déposé plainte avec constitution de partie civile en juin 2024, estimant que ces propos étaient de nature à « porter atteinte à l’honneur et à la considération » de l’association. Sarah Aizenman, porte-parole de Nous vivrons, a affirmé que Portes leur « met une cible dans le dos », tandis que leur avocat, Maître Patrick Klugman, a dénoncé ces accusations comme « parfaitement ignominieuses ». Thomas Portes n’a pas donné suite aux sollicitations de la presse.
+
+Personne: Catherine Bernié-Boissard
+Paragraphe: Dans les années 1990, elle est conseillère municipale communiste de Nîmes. Dans le cadre de ses fonctions, elle est condamnée en 1997 pour diffamation envers l'élu frontiste Serge Martinez. Elle retrouve ce mandat en 2014, élue sur la liste de la socialiste Françoise Dumas. Sa décision de siéger avec le groupe socialiste au conseil municipal lui vaut d'être suspendue par le Parti communiste français. En novembre 2018, elle signe l'appel pour l'union de la gauche à Nîmes dans l'optique des élections municipales de 2020. Elle est ensuite candidate sur la liste conduite par Daniel Richard.
+
+Personne: Marcel Francisci
+Paragraphe: Quoi qu'il en soit, Marcel Francisci n'est jugé et condamné que pour trois délits mineurs : un défaut de port d'armes à Marseille en 1946, un autre en 1948 et une bagarre sur le champ de courses d'Auteuil en 1951 ayant entrainé une condamnation par défaut à huit jours de prison avec sursis.
+
+Personne: Lakhdar Bentobal
+Paragraphe: Né en 1923, militant au PPA dès 1940 dans sa ville de Mila, il devient membre de l'OS en 1947. Condamné par contumace par les autorités coloniales, il entre dans la clandestinité. En 1954, il fait partie du groupe des 22 qui se sont réunis dans une modeste villa du Clos Salambier appartenant à Lyès Deriche afin de se prononcer « pour la révolution illimitée jusqu'à l'indépendance totale » lors d'une réunion du CRUA.
+
+Personne: Nathalie Porte
+Paragraphe: Elle se présente de nouveau comme « candidate de la droite républicaine » lors des élections législatives de 2024, mais sa candidature est finalement invalidée le 18 juin par le tribunal administratif, après le désistement de son suppléant Rémi Debard.
+
+Personne: Pierre Hurmic
+Paragraphe: Pierre Hurmic a déposé le 22 juillet 2016, en sa qualité d'avocat d'associations environnementales mais aussi d'une quinzaine de communes du Sud Gironde, un recours en annulation de la déclaration d'utilité publique des LGV Bordeaux-Toulouse et Bordeaux-Dax, signée en juin 2016 par Alain Vidalies, alors secrétaire d'État chargé des Transports, qui engendrent, notamment, un « massacre environnemental ».
+
+Personne: Raphaëlle Rémy-Leleu
+Paragraphe: Fin juillet 2020, elle prend avec Alice Coffin la tête du mouvement qui dénonce le soutien de Christophe Girard, alors adjoint à la Culture, envers l’écrivain Gabriel Matzneff, soupçonné de pédophilie. Christophe Girard démissionne par la suite de son poste d'adjoint, en raison de cette dénonciation et de la révélation de l'existence de trois notes de frais payées par la ville de Paris pour des dîners avec Matzneff, mais conserve son siège au conseil d'administration de la Société d'exploitation de la tour Eiffel (Sete). Le 28 janvier 2022, elle est mise en examen pour diffamation et injure publique à l'égard de Christophe Girard à la suite de tweets. Avec les autres mises en cause, Raphaëlle Rémy-Leleu est relaxée par le Tribunal correctionnel de Paris le 17 mai 2024.
+
+Personne: Jacques Lafleur
+Paragraphe: L'affaire « Lafleur - Levallois » : dans son autobiographie L'Assiégé : vingt-cinq ans de vie politique. Une histoire partagée avec la Nouvelle-Calédonie parue en avril 2000 aux éditions Plon, Jacques Lafleur accuse nommément Michel Levallois, ancien directeur des affaires politiques, administratives et financières de l'outre-mer pendant la période des Évènements, d'avoir une part de responsabilité importante dans la mort du dirigeant indépendantiste Éloi Machoro en 1985. Pour ces déclarations, Michel Levallois obtient du tribunal correctionnel de Paris la condamnation en diffamation du député néo-calédonien et de son éditeur, confirmé en appel le 2 avril 2003. Jacques Lafleur et Plon doivent alors payer solidairement 15 245 euros de dommages et intérêts à Michel Levallois, tandis que les passages incriminés du livre doivent être retirées dans ses publications ultérieures. Cependant, le chef anti-indépendantiste s'insurge contre cette décision de justice en déclarant : « Je maintiens que ce que j’ai écrit est vrai ».
+
+Personne: Raymond Lindon
+Paragraphe: Raymond Lindon est membre de l'Alliance israélite universelle et procureur dans les procès qui suivent la Libération de la France, après la défaite du Troisième Reich. Il requiert notamment la peine de mort contre Jean Luchaire et Henri Béraud.
+
+Personne: Omar Bongo
+Paragraphe: En 1997, le nom d'Omar Bongo apparaît dans l'affaire Elf, il est soupçonné d'avoir aidé le PDG d'ELF, Loïk Le Floch-Prigent, à renflouer la société Bidermann. La juge Eva Joly place sous séquestre un de ses comptes en Suisse.
+
+Personne: Rodrigo Arenas (homme politique)
+Paragraphe: Rodrigo Arenas porte plainte pour diffamation. Il considère que Jean-Pierre Obin « ment ». Le 3 janvier 2021, Rodrigo Arenas est débouté en première instance par la 17e chambre correctionnelle : le tribunal ne reconnaît pas la diffamation ; il juge que les propos de M. Orbin constituent « son avis » mais admet cependant qu'ils ne reposent sur aucune preuve. Rodrigo Arenas choisit de ne pas faire appel : « Aussi, on m’accuse d’être un « islamo-gauchiste ». Ce qui voudrait dire que j’aurais un lien avec les radicaux islamistes. Celles et ceux qui le prononcent ne sont pas dans la capacité de le prouver. Parce que c’est faux. Et le tribunal a été clair, M. Obin a été dans l’incapacité de prouver que je suis un « islamo-gauchiste ». »
+
+Personne: Charles Benoist (homme politique)
+Paragraphe: Ayant refusé de désavouer le pacte germano-soviétique, il est arrêté le 8 octobre 1939, déchu de son mandat le 21 janvier 1940 et condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à cinq ans de prison, 4 000 francs d'amende et cinq ans de privation de ses droits civiques et politiques.
+
+Personne: Sébastien Jumel
+Paragraphe: En 2001, alors que Christian Cuvilliez est mis en examen dans une affaire d'emplois fictifs, Sébastien Jumel prend sa défense. Christian Cuvilliez étant battu aux élections municipales puis aux élections législatives l'année suivante avant d'être condamné par les tribunaux et privé de ses droits civiques, Sébastien Jumel devient alors assistant parlementaire du député de la huitième circonscription de la Seine-Maritime, Daniel Paul.
+
+Personne: Raphaël Glucksmann
+Paragraphe: Il contribue à une campagne de sensibilisation sur les réseaux sociaux concernant le génocide culturel des Ouïghours, avec Dilnur Reyhan, présidente de l'Institut ouïghour d'Europe. Au début de l'année 2021, comme d'autres députés européens, il est l'objet de sanctions de la part de la Chine (interdiction d'y entrer ou d'y faire des affaires), en raison de son soutien à la minorité persécutée des Ouïghours. En novembre 2021, Glucksmann conduit sept membres du Parlement européen à Taïwan pour envoyer un signal fort en faveur de l'île autonome, malgré une menace de représailles de la Chine.
+
+Personne: Bernard Brochand
+Paragraphe: Il est finalement jugé le 16 février 2022 par le tribunal correctionnel de Paris. Le procureur requiert une peine de trois ans d'emprisonnement dont un an ferme, demandant que cette partie soit aménagée sous la forme d'une détention à domicile sous surveillance électronique. Le procureur demande également trois ans d'inéligibilité assortie de l'exécution provisoire. La défense représentée par Me Antoine Vey plaide l'erreur, l'oubli d'un « compte dormant » ne représentant que 3 % du patrimoine de son client et demande la clémence du tribunal à son encontre. Le 5 avril, le tribunal correctionnel condamne Bernard Brochand à 1 an de prison avec sursis, 3 ans d'inéligibilité avec sursis et 375 000 euros d'amende.
+

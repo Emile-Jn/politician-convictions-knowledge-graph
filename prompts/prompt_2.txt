@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Pedro Carrasquedo
+Paragraphe: Le 10 mai 1992, Pedro Carrasquedo et sa compagne Françoise seront arrêtés pour avoir hébergé des militants indépendantistes basques. À l’issue d’une garde à vue de quatre jours, Pedro Carrasquedo sera inculpé par la juge antiterroriste Laurence Levert pour « association de malfaiteurs à titre principal ou connexe ».
+
+Personne: Henry de Lesquen
+Paragraphe: En 2006, lorsque le maire de Versailles, Étienne Pinte, lance le projet d'une cérémonie en hommage aux harkis, Henry de Lesquen publie une lettre ouverte intitulée « Pas vous, pas ça, M. Pinte ! », dans laquelle il lui reproche d'avoir « déserté » en se soustrayant volontairement à l'appel du contingent lors de la guerre d'Algérie (Étienne Pinte avait à l'époque la nationalité belge). Il est condamné pour diffamation envers le maire, en première instance puis en appel, à 1 500 euros d'amende et 2 000 euros de dommages et intérêts.
+
+Personne: Aymeric Durox
+Paragraphe: Candidat aux élections municipales de 2020 à Nangis, Aymeric Durox est en compétition avec le maire sortant, Michel Billout. Au cours de la campagne, Billout porte plainte contre lui pour injures et diffamation en raison d'une publication sur Facebook dans laquelle Durox accuse le maire d'avoir profité indûment de sa position pour s'enrichir. En 2021, il est relaxé de tous les chefs d’accusation portés contre lui. Durox remporte 11,80 % des voix au second tour de l'élection et est élu conseiller municipal de l'opposition.
+
+Personne: Cyrille Hamilcaro
+Paragraphe: Cyrille Hamilcaro se représente aux élections municipales de 2014. Réélu maire de Saint-Louis, il annonce néanmoins sa démission le 11 juin 2014, quelques semaines après sa victoire. Quelques heures plus tard, la Cour de cassation rejette son pourvoi dans l'affaire dite « Surgine Fontaine », le condamnant à cinq ans d'inéligibilité, 40 000 euros d'amende et deux ans de prison avec sursis.
+
+Personne: Edmond Thorailler
+Paragraphe: Edmond Thorailler espérait que son fils lui succède, il ne lui restait qu'un diplôme à obtenir pour pouvoir reprendre l'étude, mais ses ennuis judiciaires empêcheront la réalisation de ce projet.
+
+Personne: Laurent Wauquiez
+Paragraphe: Le 6 octobre 2017, le tribunal administratif de Lyon déclare qu’il annule la décision de Laurent Wauquiez d’installer une crèche de Noël dans les locaux de l’hôtel de région en décembre 2016, estimant que l’installation de cette crèche « méconnaissait le principe de neutralité » imposé par la laïcité. Wauquiez relance la polémique sur les crèches de Noël dans l'espace public en contournant cette interdiction par sa décision d'exposer des santons dans le hall de ses locaux en décembre 2017. Le Conseil d’État se prononce cette fois-ci en sa faveur en retenant le « caractère culturel » de l'installation.
+
+Personne: Jacques Arrès-Lapoque
+Paragraphe: Engagé au sein de la résistance, et participant à la reconstruction, en secret, de la fédération socialiste, il doit passer dans la clandestinité à l'automne 1942, au sein du réseau dirigé par Georges Archidice. Condamné à la peine de mort, par contumace, pour ses activités de résistance en 1943, il est, par la suite, décoré de la croix de guerre et de la médaille de la résistance.
+
+Personne: Marie-Christine Boutonnet
+Paragraphe: Dans le cadre de l'affaire des assistants parlementaires du Front national au Parlement européen, son assistant parlementaire Charles Hourcade est mis en examen en mars 2017. À la suite de son refus de répondre aux convocations des juges d'instruction, ces derniers demandent la levée de l'immunité parlementaire de Marine Le Pen et de Marie-Christine Boutonnet en avril 2017. Le 20 juin 2017, Marie-Christine Boutonnet est à son tour mise en examen pour abus de confiance concernant l'emploi comme assistant parlementaire de Charles Hourcade. Le 31 mars 2025, elle est condamnée à dix-huit mois de prison avec sursis et trois ans d’inéligibilité avec sursis.
+
+Personne: Dominique Plancke
+Paragraphe: Pour avoir participé avec le Field Liberation Movement à une action contre un essai de pommes de terre OGM à Wetteren en Belgique en mai 2011, Dominique Plancke fait l'objet d'un mandat d'amener de la police belge, aujourd'hui levé.
+
+Personne: Julien Airoldi
+Paragraphe: De retour à Lyon, Julien Airoldi est arrêté en octobre 1939 alors qu'il s'emploie à faire appliquer la nouvelle ligne de l'IC. D'abord détenu au fort du Paillet, il est transféré à la prison de Saint-Paul, puis condamné par le tribunal militaire de Montluc à deux ans de prison sous l'inculpation « d'intelligence et d'action au profit d'une puissance étrangère ». En septembre 1941 il est transféré au fort Barraux (Isère) où étaient détenus de nombreux communistes lyonnais, en novembre au camp de Saint-Sulpice-la-Pointe, dans le Tarn, puis au sanatorium de La Guiche, en Saône-et-Loire. De retour au camp de Saint-Sulpice, il s'évade et prend des responsabilités dans le Parti communiste clandestin à Toulon, puis à Marseille où il participe à la libération de la ville. En octobre 1944, il devient secrétaire de la fédération communiste du Rhône.
+
+Personne: Axel Loustau
+Paragraphe: Le 12 septembre 2015, Axel Loustau poursuit en diffamation Mediapart, qui affirme qu'il a fait un salut nazi. L'audience a lieu le 8 septembre 2017 et, le 10 octobre de la même année, le tribunal — considérant que les arguments présentés par Mediapart « ne suffisent pas à prouver, avec certitude, qu'il s'agit d'un salut fasciste » et que la « référence au "code" gestuel nazi du pouce replié et de la main tendue (...) demeure de l'ordre de l'interprétation subjective » — condamne le directeur de la publication Edwy Plenel à 500 euros d'amende, et la journaliste Marine Turchi, à 500 euros avec sursis. Le média fait appel et, le 13 juin 2018, la cour lui donne raison, infirmant la décision prise par la 17e chambre du tribunal de grande instance de Paris.
+
+Personne: Jean-Jacques Susini
+Paragraphe: Il est condamné deux fois, par contumace, à la peine de mort par la Cour de sûreté de l'État, pour son appartenance à l'OAS et comme inspirateur de l'attentat manqué contre le président de la République française, le général de Gaulle, au mémorial du Mont Faron dominant Toulon, en août 1964. Une bombe placée dans une jarre n'explosa pas et fut découverte quelques jours plus tard. D'après Jacques Delarue, cet attentat avait été organisé par Jean-Jacques Susini et Gilles Buscia.
+
+Personne: Pierre Sidos
+Paragraphe: Au sein du Mouvement populaire du 13 mai[réf. souhaitée], Pierre Sidos s'engage alors dans l'action clandestine pour l'Algérie française. En février 1960, un mandat d'arrêt est lancé contre lui pour atteinte à la sûreté de l'État, au lendemain de la semaine des barricades à Alger. Le 19 octobre de la même année, il est condamné par défaut à une amende et quinze jours de prison pour offense au chef de l'État et reconstitution de ligue dissoute. Il est alors entré dans la clandestinité.
+
+Personne: Rachida Dati
+Paragraphe: À la mairie, Rachida Dati se mobilise notamment en faveur du démontage du Mur pour la Paix, un monument de verre installé en 2000, car il « obstrue la perspective classée de l'École militaire à la tour Eiffel ». Ses propos sur l'autrice du monument, Clara Halter, et son époux Marek Halter lui valent une condamnation pour diffamation par la cour d'appel de Paris en 2012. En 2014, la Cour de cassation casse sans renvoi cette condamnation, estimant que les propos de Rachida Dati « ne dépassaient pas les limites admissibles de la liberté d’expression ». En octobre 2012, elle lance le mouvement des « Sardines » pour lutter contre la fermeture des voies sur berge à Paris et en demander la révision.
+
+Personne: Yves Rispat
+Paragraphe: Mais le 2 avril 2014, il est radié de l'ordre de la Légion d'honneur, ainsi que de l'ordre national du Mérite, après avoir été reconnu coupable d'avoir détourné quelque 180 000 €.
+
+Personne: Georges Kuzmanovic
+Paragraphe: Cécile Vaissié l'inclut parmi un réseau de personnes qui « défendent le narratif du Kremlin » dans son livre Les Réseaux du Kremlin. Georges Kuzmanovic porte plainte pour diffamation mais la 17e chambre du tribunal correctionnel de Paris relaxe l’universitaire, estimant que le qualificatif « pro-Kremlin » ne portait pas atteinte à l'honneur et à la considération du plaignant. Conspiracy Watch qualifie Georges Kuzmanovic de « pro-Poutine », tandis que pour le Le Journal du dimanche, il est une « cible privilégiée des complotistes » du fait de son « profil atypique d'origine serbe, officier de réserve ».
+
+Personne: Jean-Paul Carrier
+Paragraphe: Militant socialiste « proche des pivertistes », Jean-Paul Carrier est résistant dès 1940. Membre du réseau de résistance du Musée de l'Homme, il est arrêté en février 1941. Incarcéré à la prison de la Santé puis à Fresnes, il est condamné à 3 ans de prison à la suite du procès. Il s'évade en juillet 1942 de la prison de Clairvaux et participe au mouvement Libération-Sud. Il tente ensuite de rejoindre Londres en passant par l'Espagne, mais il est capturé puis interné 7 mois dans les geôles franquistes avant de rejoindre Alger. Il entre alors dans les forces françaises libres et s'investit dans le commissariat national à l'information sous la direction de Jacques Soustelle.
+
+Personne: Philippe Le Ray
+Paragraphe: Philippe Le Ray se fait connaître nationalement sur les médias et les réseaux sociaux en imitant à plusieurs reprises les gloussements d'une poule au cours de l'intervention de la députée écologiste de la Vienne Véronique Massonneau, dans le cadre d'une séance consacrée à la réforme des retraites le 8 octobre 2013. Ce comportement qualifié de misogyne et imputé à un excès de consommation d'alcool entraîne une suspension de séance, le président de l'Assemblée, Claude Bartolone, condamne son comportement. Il est sanctionné le lendemain par une décision unanime de la conférence des présidents de l'Assemblée nationale à la privation d'un quart de son indemnité parlementaire pendant un mois.
+
+Personne: Jules Milhau
+Paragraphe: Jules Milhau fait toutes ses classes primaires à Causses-et-Veyran. Son père étant mobilisé au Maroc, il est pris en charge par des membres de sa famille qui lui permettent de poursuivre ses études à l'École supérieure Michelet à Montpellier, à l'École primaire supérieure de Paulhan et au lycée Henri-IV de Béziers. Une fois bachelier, Jules Milhau prépare Mathématiques Supérieurs et Mathématiques Spéciales, mais il est arrêté à nouveau par son état de santé.
+
+Personne: Tristan Duval
+Paragraphe: En septembre 2018, il est accusé par sa seconde épouse de violences conjugales aggravées qui se seraient déroulées le 7 août 2018 et comparaît devant le tribunal correctionnel de Caen le 10 octobre. Il est condamné le 21 novembre 2018 à trois mois de prison avec sursis pour violences sur conjoint et annonce vouloir faire appel. À l'issue de ce jugement, deux pétitions réclament la démission de Tristan Duval. En un mois, elles recueillent 5 000 signatures puis en atteignent près de 80 000 en juin 2019. 
+

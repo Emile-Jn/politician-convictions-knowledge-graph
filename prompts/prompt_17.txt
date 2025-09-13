@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Muriel Ressiguier
+Paragraphe: En novembre 2019, deux anciennes attachées parlementaires employées par Muriel Ressiguier l'attaquent aux prud'hommes pour travail dissimulé, harcèlement moral, licenciement nul et abusif, manquement à la sécurité ainsi que pour de nombreuses heures supplémentaires non payées. Plusieurs autres employés présents en début de mandat affirment dans une enquête Mediapart que leur employeuse les invitait à dormir sur un matelas sous le bureau plutôt que de leur payer l’hôtel. Muriel Ressiguier récuse la charge de harcèlement mais confirme, dans un communiqué, le licenciement pour faute grave. Elle annonce également porter plainte au pénal contre l’inspectrice du travail saisie par les anciennes collaboratrices pour extorsion de fonds. Le jugement est rendu en juin 2022 : la députée est condamnée à verser des indemnités à ces deux anciennes collaboratrices pour licenciement abusif, le harcèlement moral n'est quant à lui pas retenu par le conseil de prud’hommes. 
+
+Personne: Henri Naisseline
+Paragraphe: Toutefois, une scission a lieu en 1964 au sein de la fédération gaulliste sur le choix du candidat à soutenir lors d'élections partielles organisées pour remplacer Maurice Lenormand, frappé d'inéligibilité après une condamnation judiciaire. Si la direction de l'UNR locale, et notamment son président Georges Chatenay, appelle à rassembler la minorité anti-UC derrière l'indépendant Édouard Pentecost, Edmond Caillard (l'une des figures du gaullisme néo-calédonien) décide de se présenter malgré tout avec l'investiture de l'Association des indigènes calédoniens et loyaltiens français (AICLF, parti d'inspiration protestante créé en 1947 par Kowi Bouillant et Doui Matayo Wetta pour défendre les intérêts des Mélanésiens et qui avait contribué à la fondation de l'UC en 1953 avant de s'en éloigner au début des années 1960). Henri Naisseline (ainsi que l'aile mélanésienne du parti gaulliste qu'il anime avec un autre grand-chef, celui de Touho Kowi Bouillant) soutient alors Caillard et le suit dans un nouveau parti, l'Action calédonienne.
+
+Personne: Béatrice Roullaud
+Paragraphe: En 2014, elle dépose sa liste aux élections municipales à Meaux. La campagne connaît un scandale quand son directeur de campagne, Vincent Morelle, démissionne et raconte dans différents médias nationaux les coulisses du Front national à Meaux : propos racistes et homophobes, conditions de recrutement des colistiers, etc.. Poursuivi pour diffamation, il est relaxé en 2016. Sa liste ayant obtenu 12,13 % des voix, Béatrice Roullaud entre au conseil municipal avec deux autres colistiers.
+
+Personne: Raymonde Dien
+Paragraphe: Raymonde Dien, née le 13 mai 1929 à Mansigné et morte le 19 août 2022 à Saint-Denis, est une militante communiste française, connue pour avoir été emprisonnée pendant dix mois en 1950 à la suite d'une action de protestation contre la guerre d'Indochine.
+
+Personne: Jamilah Habsaoui
+Paragraphe: Elle est libérée le 15 mai 2024 mais astreinte à un contrôle judiciaire lui interdisant de séjourner dans l'Yonne et, partant, de tenir son rôle de maire. Ce contrôle est assoupli en octobre 2024, lui permettant alors d'assumer son mandat local. Elle reprend donc ses fonctions le 11 octobre.
+
+Personne: Caroline Parmentier
+Paragraphe: Elle est condamnée en 1995 par le tribunal correctionnel de Paris pour « diffamation publique raciale », et signe également dans Présent des tribunes contre l’homosexualité et fustige, notamment, l'entrée de Sébastien Chenu (ouvertement gay) au Front national. En juin 2025, Mediapart publie des analyses de ses écrits dans le journal Présent, ainsi que sur son compte Facebook, relevant entre les années 1990 à 2010 des propos racistes, antisémites et homophobes. 
+
+Personne: André Tollet
+Paragraphe: André Tollet, mobilisé sans participer aux combats, revient à Paris durant l'été 1940. Ayant repris une activité de militantisme communiste et syndical, il est arrêté en octobre 1940, comme nombre d'élus et de militants du Parti communiste.
+
+Personne: Slimane Dehilès
+Paragraphe: Démobilisé en décembre 1946, il s'installe à Paris pour travailler à l'usine avant de s'engager au PPA-MTLD. Il est arrêté le 29 juin 1948 et écopera de deux ans de prison pour atteinte à la sureté de l'Etat et cinq d'interdiction d'entrée en Algérie. Après quatre ans près de la frontière franco-allemande, il rentre clandestinement en Algérie le 5 novembre 1954 pour rejoindre l'Armée de libération nationale.
+
+Personne: Jean-Louis Vigier
+Paragraphe: Pendant la Seconde Guerre mondiale, il s’illustre dans des activités clandestines dans la résistance, dirigeant le réseau Maurice, qui passe clandestinement la frontière et, par la suite, animant le réseau Alibi. Le 30 mai 1944, il est arrêté par les Allemands à Paris ; condamné à mort, il fut transféré à la citadelle de Pont-Saint-Esprit, où il tenta de se suicider en sautant de la citadelle pour qu’on ne lui fasse pas parler, mais il ne se brise que les jambes. De ce fait, il obtiendra plus tard le titre de « Great War Invalid » à 100 %. Après vingt-quatre jours de détention, il fut libéré par les troupes alliées dans leur avance et nommé président du Comité local de libération de Pont-Saint-Esprit.
+
+Personne: Laroussi Khalifa
+Paragraphe: À la suite de l'affaire de Zbiri du 14 décembre 1967, il est arrêté et condamné à 5 ans de prison. Libéré le 5 juillet 1969, il devient pharmacien à Cheraga.
+
+Personne: Jean-Claude Briault
+Paragraphe: Son grand-père paternel, Martial Briault (1849-1916), originaire de Tessy-sur-Vire dans le département de la Manche en Normandie, est un marin, aventurier et colon-planteur arrivé dans le Pacifique dans les années 1860. Capitaine de son propre navire, il pratique le cabotage à partir de la Nouvelle-Calédonie et devient un blackbirder, activité pour laquelle il est condamné en 1880 par le tribunal de Nouméa à cinq ans de travaux forcés. Il s'installe alors aux Nouvelles Hébrides où, après encore quelques années de cabotage et d'actions illégales, il fonde une plantation de 2 500 ha sur l'île d'Aore Santo, où travaillent une quarantaine de personnes pour cultiver le café, le cacao et la noix de coco. En 1900, le gouvernement français le nomme officier d'État Civil de Santo, première fonction nouvellement créée.
+
+Personne: Didier Borotra
+Paragraphe: En 2017, accusé d'avoir annulé « abusivement plus de 4632 procès-verbaux » de stationnement entre janvier 2009 et juin 2013 ayant causé un manque à gagner d'environ 120 000 euros à la ville de Biarritz, il est condamné en appel à une amende de 30 000 euros. Son pourvoi est rejeté par la Cour de cassation en 2018.
+
+Personne: Charles Millon
+Paragraphe: En 2003, la cour administrative d'appel de Lyon déclare illégales les délibérations qui avaient permis à Charles Millon de bénéficier d'un appartement et de personnel de maison, pendant près de dix ans, lorsqu'il présidait la région Rhône-Alpes.
+
+Personne: Pierre Henriet
+Paragraphe: Après avoir invectivé la députée Mathilde Panot en la traitant de « folle » et de « poissonnière » au cours d'une séance parlementaire le 2 février, il est sanctionné le 9 février 2021 par la Conférence des présidents de l'Assemblée nationale d'un rappel à l'ordre avec inscription au procès-verbal, assorti d'une retenue d'un quart sur son indemnité de parlementaire, soit 1 405 euros sur le mois. Mathilde Panot avait appelé à une sanction contre lui : « c'est notre institution qui ne doit pas laisser passer ça. Il y a beaucoup trop de sexisme à l’Assemblée nationale. » Pierre Henriet avait présenté ses excuses à Mathilde Panot, mais en niant une dimension sexiste à son propos, affirmant qu'il avait voulu dénoncer un type de comportement comme il le fait également pour ses collègues masculins.
+
+Personne: Léon Frot
+Paragraphe: À la suite d'une perquisition à son domicile en novembre 1939, il est arrêté et condamné à cinq ans de prison pour propagande communiste. Il est détenu à la prison de Bourges, puis à la maison centrale de Clairvaux où il est fusillé comme otage par les Allemands le 13 janvier 1942. Le numéro du mois d'avril 1942 du journal clandestin des communistes allemands (KPD) et autrichiens (KPÖ), Soldat im Westen, mentionne ce fait en rappelant la présence de Léon Frot en Autriche en 1934.
+
+Personne: Aurore Martin
+Paragraphe: Le 13 janvier 2016, l'Espagne renonce à toutes ses poursuites et amnistie Aurore Martin de sa peine d'un an et huit mois de prison. En effet, en vertu d'un accord judiciaire entre l'État et 35 indépendantistes inculpés, ils sont libérés sans peine après avoir reconnu leur « délit de participation à une organisation terroriste » et signé un « engagement à renoncer à toute activité en lien avec l'usage de la violence, en souhaitant que cette reconnaissance contribue à la réparation des dommages et souffrances qui ont été causés aux victimes du terrorisme ».
+
+Personne: Jean-Guy Talamoni
+Paragraphe: En 2004, Jean-Guy Talamoni est placé en garde à vue, accusé de s’être livré à une extorsion de fonds au préjudice de la société « Nouvelles Frontières » pour financer le journal nationaliste U Ribombu. L’année suivante, il est traduit devant le tribunal correctionnel de Paris pour « terrorisme, extorsion par violence, menace ou contrainte de signature, promesse, secret, fonds, valeur ou bien »[réf. nécessaire]. Le parquet demande sa condamnation à trois ans de prison, dont deux fermes[réf. nécessaire].
+
+Personne: Huguette Bello
+Paragraphe: Le 3 mars 2018, lors d'une visite à la médiathèque Cimendef de Saint-Paul, récemment rachetée par la région Réunion, Huguette Bello et Ericka Bareigts se voient refuser l'accès à une partie du bâtiment. Les deux élues, accompagnées du collectif Cimendef, forcent alors le passage pour pouvoir entrer. Dénonçant « l'agression » d'un gardien par les deux députées, la région Réunion porte plainte pour violation de domicile. Les médias réunionnais parlent alors de « l'affaire Cimendef ». Le 14 septembre 2018, Huguette Bello et Ericka Bareigts sont relaxées par le tribunal correctionnel de Saint-Denis. La région fait appel de cette décision.
+
+Personne: Pascal Arrighi
+Paragraphe: En septembre 1988, il critique le calembour de Jean-Marie Le Pen sur Michel Durafour : « Monsieur Durafour-Crématoire, merci de cet aveu ! », indiquant au Quotidien de Paris : « avec des mots encore chargés de sens, on ne doit pas faire de mauvais calembours. » Pascal Arrighi est sanctionné pour cela par les instances disciplinaire du FN le 6 septembre. Outré par un tel propos et par l'absence d'excuses qu'oppose J.-M. Le Pen, Pascal Arrighi déclare : « Je me suspends pour toujours. »
+
+Personne: Patrick Lozès
+Paragraphe: Le 11 septembre 2012, Marine Le Pen est déboutée de son procès en diffamation contre Patrick Lozès à la 17e chambre correctionnelle du tribunal de Paris. Celle-ci a fait appel.
+

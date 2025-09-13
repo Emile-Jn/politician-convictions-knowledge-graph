@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Aurélien Pradié
+Paragraphe: En 2013, Le Conseil constitutionnel déclare Aurelien Pradié inéligible pour une période d'un an. Le Conseil constitutionnel estime dans son jugement du 8 février 2013 que l'apport personnel s'est révélé fictif, ce qui a eu pour conséquence une présentation du compte de campagne en déficit  concernant les élections législatives de juin 2012.
+
+Personne: Pascale Haiti
+Paragraphe: Une semaine après le refus du bureau du Sénat de lever l’immunité parlementaire de Gaston Flosse le 15 septembre 2009 dans le cadre de l’affaire des annuaires de l'Office des postes et télécommunications de Polynésie française (OPT), le juge d’instruction Philippe Stelmach décide de placer Pascale Haiti en garde à vue le 23 septembre 2009 à Versailles dans le cadre de cette affaire. Elle est soupçonnée de « destruction de preuves », après l’intervention à son domicile d’un informaticien venu réparer, à sa demande, une imprimante et qui aurait procédé à des modifications sur le disque dur d’un ordinateur. La veille de sa garde à vue, elle adressait un courrier au juge expliquant ce qu'elle présentait comme un incident.
+
+Personne: Xavier Breton
+Paragraphe: Il est candidat en 2023 à la présidence de la fédération LR du département de l'Ain mais le scrutin est annulé à la suite de suspicions de fraudes. Xavier Breton est accusé de ne pas être à jour dans ses cotisations au parti. Depuis juillet 2024, il est visé par une enquête préliminaire ouverte par la procureure de Bourg-en-Bresse pour des soupçons de faux, usage de faux et escroquerie.
+
+Personne: Claude Goasguen
+Paragraphe: En juillet 2014, Claude Goasguen accompagne 13 autres parlementaires français qui se rendent à Moscou pour exprimer leur soutien aux dirigeants russes à la suite de l'annexion de la Crimée par la Russie. À cette occasion, il s'oppose également à l'annulation de la livraison de deux navires Mistral à la Russie. La politique de Vladimir Poutine est alors largement condamnée en Occident. 
+
+Personne: Amar Ouzegane
+Paragraphe: Il participe à l'Appel pour une Trêve Civile initié par Albert Camus. Il participe en août 1956 à la rédaction de la plate-forme du  Congrès de la Soummam (qui critique forment le PCA) et à l'organisation de la grève générale de janvier 1957. Il est arrêté le 6 janvier 1958 à Kouba, où il s'était réfugié après le démantèlement de la zone autonome d'Alger et l'arrestation de Yacef Saâdi. Il est condamné à huit ans de prison par le Tribunal militaire d'Alger pour « association de malfaiteurs et atteinte à la Sûreté de l’État ». Transféré à la prison de Fresnes à la suite de l'aggravation de son diabète, il y restera jusqu'en avril 1962.
+
+Personne: Robert Badinter
+Paragraphe: Il défend également la milliardaire Marie Christine von Opel (de), condamnée le 18 juin 1980 par la chambre correctionnelle de cour d'appel d'Aix-en-Provence à cinq années d'emprisonnement pour une affaire de stupéfiants et libérée le 13 août 1981 avec vingt autres femmes détenues, par une grâce du président de la République François Mitterrand proposée par Robert Badinter, devenu entre-temps ministre de la Justice.
+
+Personne: Michel Fontaine (homme politique)
+Paragraphe: Michel Fontaine est condamné le 28 juin 2012 par la cour d'appel de La Réunion à quatre mois de prison avec sursis et 10 000 euros d'amende pour détournements de biens et favoritisme dans la passation de marchés publics pour des équipements informatiques de la communauté intercommunale des Villes solidaires (CIVIS). La cour n'assortit pas sa décision d'une peine d'inéligibilité, alors qu'elle avait été requise par l'avocat général lors des débats. En première instance, Michel Fontaine avait été condamné à quatre mois de prison avec sursis et 30 000 euros d'amende.
+
+Personne: Jean-Marie Le Guen
+Paragraphe: Dès 1977, et pour un an, il est le Premier secrétaire du Mouvement de la Jeunesse Socialiste. En 1980, il s'investit comme membre fondateur de l'Unef-ID, puis, entre 1980 et 1982, comme vice-président de la Mutuelle nationale des étudiants de France. Il est administrateur, puis salarié de la Mutuelle étudiante pendant près de vingt ans (de 1982 à 1997), devenant officiellement, de 1993 à 1997, conseiller médical de la direction. En 1998, il est mis en examen dans le cadre de l'affaire de la MNEF pour un présumé emploi fictif dans cette structure. Les juges lui reprochent près de 1,5 million de francs qui auraient été indûment perçus. En outre, une autre mutuelle créée par la MNEF au terme d'une convention datée du 1er juin 1993, lui aurait versé 330 000 francs de 1994 à 1996. Les juges estimaient qu'il n'y avait pas eu de contrepartie. L'ensemble de la procédure a abouti à un non-lieu.
+
+Personne: Mamadou Dia
+Paragraphe: Mamadou Dia est arrêté le lendemain par un détachement de paras-commandos, avec quatre autres ministres, Valdiodio N'diaye, Ibrahima Sar, Joseph Mbaye et Alioune Tall. Ils sont traduits devant la Haute Cour de justice du 9 au 13 mai 1963 ; alors que le procureur général ne requiert aucune peine, Dia est condamné à la prison à perpétuité tandis que ses quatre compagnons sont condamnés à 20 ans d'emprisonnement ; ils seront détenus au centre spécial de détention de Kédougou (Sénégal oriental).
+
+Personne: Mohamed Gnabaly
+Paragraphe: Mohamed Gnabaly est engagé politiquement pour la justice, l'égalité des territoires ainsi que pour écologie sociale et solidaire. En 2019, une action judiciaire a été initiée contre l'État français par des élus de Seine-Saint-Denis dont l’édile de L'île-Saint-Denis. Ce recours, motivé par des faits de rupture d'égalité établis par un rapport parlementaire de 2018 mettant en évidence la sous-dotation de la Seine-Saint-Denis comparativement aux autres départements, visait à mettre en lumière et à corriger les disparités significatives entre ce département et le reste de la France en termes de services publics d’État.
+
+Personne: Henri Henneguelle
+Paragraphe: Très rapidement, il s'engage dans la résistance et entre en clandestinité. Membre du Comité d'action socialiste, responsable du mouvement Libération-Nord dans le Pas-de-Calais, il est arrêté en 1943, mais parvient à s'évader. Il est alors condamné à mort par contumace et recherché par les Allemands.
+
+Personne: Louis Namy
+Paragraphe: En mai 1950, il est condamné par la cour d'appel de Paris à 10 000 francs d’amende pour diffamation dans le cadre de la campagne municipale de 1947 à Saint-Cloud. En juillet 1951, il est jugé pour coups et blessures.
+
+Personne: Maïrbek Vatchagaev
+Paragraphe: Lorsqu'à l'automne 1999 éclate la nouvelle guerre entre la Russie et la Tchétchénie, la police moscovite arrête Vatchagaev pour « possession illégale d'armes ». Détenu depuis son arrestation le 21 octobre 1999 à la prison de la Boutyrka, il est condamné en juillet 2000 à 3 ans de prison ferme mais est libéré sur-le-champ en raison de l'amnistie décrétée deux mois plus tôt à l'occasion du 55e anniversaire de la victoire sur les nazis.
+
+Personne: Abane Ramdane
+Paragraphe: Recherché par la police française dans l'affaire dite du « complot de l'OS » (1950), il est arrêté quelques mois plus tard dans l'Ouest du pays. Il est jugé en 1951, après avoir subi plusieurs semaines d'interrogatoire et de torture, et condamné à 5 ans de prison, 10 ans d'interdiction de séjour, 10 ans de privation des droits civiques et 500 000 francs d'amende pour « atteinte à la sûreté intérieure de l'État ». Commence alors un long séjour dans les prisons d'Algérie (Bougie, Barberousse, Maison Carrée) et de métropole. Après un court séjour aux Baumettes (Bouches-du-Rhône) au début de l'année 1952, il est transféré à Ensisheim (Haut-Rhin, Alsace) dans une prison de haute sécurité. Soumis à un régime de détention de droit commun, il entame une longue grève de la faim. À l'article de la mort, il est soigné et sauvé in extremis, et obtient gain de cause.
+
+Personne: Jacques Bompard
+Paragraphe: En octobre 2013, le tribunal de grande instance d’Avignon renvoie Jacques Bompard en correctionnelle pour des soupçons de « deux prises illégales d'intérêts commises au cours des années 2004 et 2005 ». La ville d'Orange est soupçonnée d'avoir vendu des biens immobiliers à des membres de la famille de Jacques Bompard qui réalisent d'importantes plus-values. Le 16 mai 2019, Jacques Bompard est condamné par le tribunal correctionnel de Carpentras à six mois d'emprisonnement avec sursis et 50 000 euros d'amende, dont 25 000 avec sursis ; il n'interjette pas appel, contrairement au procureur de la République, qui souhaite sa condamnation à une peine d'inéligibilité. Le 25 mars 2021, en appel, il est condamné à un an de prison avec sursis, à 30 000 euros d'amende et à cinq ans d'inéligibilité pour prise illégale d'intérêts. En novembre 2021, la Cour de cassation rejette le pourvoi de Jacques Bompard, qui est ainsi contraint de démissionner de son mandat de maire d’Orange.
+
+Personne: Jean Fontaine (homme politique)
+Paragraphe: La même année, il obtient une suspension des travaux parlementaires pour condamner une motion de l’Organisation de l’unité africaine (OUA) favorable à l’indépendance de La Réunion, jugeant « intolérable qu’en guise de récompense ces États crachent à la figure de la France en s’ingérant dans ses affaires intérieures ».
+
+Personne: Bernard Bioulac
+Paragraphe: Conseiller général du canton de Bussière-Badil de 1980 à 1996, il a assuré la présidence du conseil général de la Dordogne de 1982 à 1992 : en tant que président du conseil général, il a été reconnu responsable dans l'affaire du comité d'expansion du département de la Dordogne de 1992. Il est condamné à six mois de prison avec sursis assorti de cinq ans d'inéligibilité.
+
+Personne: Bernard Pellarin
+Paragraphe: Il est condamné en 1999 « pour avoir accepté quatre voyages de chasse offerts par la société de BTP Jean Lefèbvre », par le tribunal correctionnel d'Annecy.
+
+Personne: Jean-Louis Masson (homme politique, 1947)
+Paragraphe: En mai 2009, Jean-Louis Masson est condamné à 2 000 euros d'amende avec sursis et 1 000 euros de dommages et intérêts pour « diffamation » envers son opposant François Grosdidier. Toutefois, par un arrêt du 16 décembre 2015, la cour d’appel de Metz le relaxe reconnaissant sa bonne foi et souligne que le courriel contesté était une réponse « à un fascicule édité par François Grosdidier » ayant été distribué aux élus et aux électeurs en 2013.
+
+Personne: Félix Houphouët-Boigny
+Paragraphe: Les tensions vont atteindre leurs paroxysmes en 1991 et 1992. Lassé de devoir supporter une nouvelle manifestation étudiante, Houphouët-Boigny, qui avait déjà déclaré « Entre l'injustice et le désordre, je préfère l'injustice », envoie dans la nuit du 17 au 18 mai 1991, ses para-commandos occuper le campus de la cité universitaire de Yopougon. De nombreuses exactions y sont perpétrées par l'armée. Devant ces violences restées impunies, la Fédération estudiantine et scolaire de Côte d'Ivoire organise à Abidjan, le 13 février 1992, une manifestation qui se termine par l'interpellation d'une centaine de personnes. Le 18, c'est au tour du FPI d'organiser à Abidjan, une manifestation qui dégénère en émeute, avec l'arrestation de 300 personnes dont Laurent Gbagbo et René Dégni-Ségui, président de la Ligue ivoirienne des droits de l'homme. Les deux hommes, condamnés le 6 mars à deux ans de prison ferme, sont amnistiés par Houphouët-Boigny le 24 juillet.
+

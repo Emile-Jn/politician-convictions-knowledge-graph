@@ -1,0 +1,23 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Gérald Coppenrath
+Paragraphe: Gérald Coppenrath fut président du Lion's Club en 1971-1972. Son passé dans la Résistance l'amène à adhérer à l'Union Territoriale des Combattants Volontaires de la Résistance qu'il présidera de 1981 à 1983. Il décède le 4 novembre 2008.
+
+Personne: William Martinet
+Paragraphe: En avril 2023, alerté par les cas de maltraitance, il réclame la création d'une commission d'enquête parlementaire concernant le « problème des crèches privées lucratives ». Il obtient la création de la commission d'enquête mais « un accord LR/Renaissance a permis d’évincer William Martinet (LFI) qui visait le poste de rapporteur ». Les réponses de la ministre Aurore Bergé aux questions du députés insoumis lors de la commission d'enquête, portant sur les liens supposés de la ministre avec le lobby des crèches privées, ont conduit à l'ouverte d'une information judiciaire par la Cour de justice de la République pour « faux témoignage ». L'engagement de William Martinet contre les dérives des crèches privées lucratives est reconnu par le secteur, notamment à l'occasion de la sortie du livre Les Ogres de Victor Castanet.
+
+Personne: Raymond Mondon (1914-1970)
+Paragraphe: Mobilisé comme lieutenant d’infanterie durant la Seconde Guerre mondiale, il est sérieusement blessé en juin 1940, puis fait prisonnier, avant d’être libéré en décembre de la même année. Entre-temps, la Moselle est devenue allemande et Raymond Mondon renonce à y retourner. Reçu au concours de la magistrature un an plus tard, il est nommé juge d'instruction à Saint-Mihiel. Il entre alors en résistance sous le pseudonyme de Rudemonde. Le 8 juin 1944, il échappe une première fois à la Gestapo. Obligé de quitter la Meuse pour Paris, il est à nouveau arrêté et torturé. Le 25 juin suivant, il échappe au dernier train qui s’apprête à partir pour Dachau.
+
+Personne: Philippe Nachbar
+Paragraphe: Ayant reconnu un détournement de son indemnité représentative de frais de mandat (IRFM) entre 2015 et 2017, pour près de 100 000 euros, il démissionne de son mandat de sénateur le 31 décembre 2022, après 30 ans de mandats. Le 10 janvier 2023, il est condamné à une amende de 100 000 euros et trois ans d’inéligibilité.
+
+Personne: Georges Faisans
+Paragraphe: Il meurt en France.
+
+Personne: Sylvie Tolmont
+Paragraphe: . L'élection est invalidée par le tribunal administratif mais elle se représente pour être finalement battue par le binôme EELV-PCF le 12 juin 2016[réf. souhaitée].
+
+Personne: Abel Goumba
+Paragraphe: Il commence sa carrière politique pendant la colonisation française, accédant au poste de vice-président du conseil entre 1957 et 1958 avant de devenir président du conseil, puis Premier ministre en 1959 après la mort accidentelle de Barthélemy Boganda. À la veille de l'indépendance, il est farouchement combattu par l'administration coloniale et les anciens ennemis de Boganda qui ont repris du service. Ils s'appuieront sur David Dacko, plus malléable pour l'écarter de la succession naturelle de Boganda. Devenu orphelin de son mentor politique Boganga, Goumba qui représente l'aile nationaliste et panafricaniste du MESAN (Mouvement d'évolution sociale de l'Afrique noire - Parti de Boganda) entre en opposition au nouveau pouvoir entre 1960 et 1964, il connaîtra plusieurs fois : prison, déportation, procès… Il part en exil forcé en 1964. Exil qui le conduira en France où il fait un doctorat de médecine puis une agrégation, puis au Rwanda, Zaïre, Bénin soit comme fonctionnaire international de l'OMS ou comme enseignant de santé publique à l'Université.
+

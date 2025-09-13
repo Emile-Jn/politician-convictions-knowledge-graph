@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Albert Masson (homme politique)
+Paragraphe: Il fit l'objet, dans les années 1930, de plusieurs sanctions pour retards et faits de grève (notamment en 1934 et en 1936), mais cela ne l'empêche pas d'être le principal organisateur, à l'arsenal de Roanne, de la grève nationale du 30 novembre 1938, grève assez bien suivie malgré la pression des chefs militaires en uniforme. À la suite de cette grève, Albert Masson est licencié avec deux de ses camarades communistes, il retrouve ensuite du travail à la Manufacture d'armes de Saint-Étienne où il reprend ses activités syndicales, sans pour autant abandonner la culture physique. 
+
+Personne: Madeleine Marzin
+Paragraphe: Le 31 mai 1942, elle dirige, avec d'autres femmes, la manifestation de la rue de Buci organisée par le Parti communiste et est arrêtée le lendemain par un inspecteur des Brigades spéciales (BS2). Condamnée à mort, puis graciée, elle parvient à s'échapper lors de son transfèrement à la prison de Rennes.
+
+Personne: Chabi Mama
+Paragraphe: Il sort de prison le 21 février 1973.
+
+Personne: Pauline Londeix
+Paragraphe: Pendant la crise du COVID-19, en 2020, Pauline Londeix se mobilise aux côtés des praticiens hospitaliers de l'Assistance publique - Hôpitaux de Paris, contre les pénuries de médicaments utilisés en réanimation dans les hôpitaux parisiens. Leur collectif saisit en référé le Conseil d'État pour demander une réquisition des moyens de production sur le territoire français. Leur recours sera rejeté.  
+
+Personne: Lana Tetuanui
+Paragraphe: Membre du parti majoritaire, le Tahoera'a huiraatira, qu'elle rejoint dans les mois qui suivent sa première élection en 2001, elle est l'un des principaux acteurs de la tentative, en février 2015, de régulation du conflit qui oppose alors le fondateur du parti Gaston Flosse et son ex-gendre et héritier politique, Édouard Fritch. En jeu alors, le contrôle du parti et celui de la Polynésie dont Édouard Fritch assure la présidence depuis le départ de Gaston Flosse, condamné à de l'inéligibilité dans une affaire d'emplois fictifs.
+
+Personne: Jacques Toubon
+Paragraphe: En réponse au courant rénovateur à droite, Jacques Chirac met ce quadragénaire à la tête du RPR de 1984 à 1988 en tant que secrétaire général. Le 2 février 1984, il est condamné avec François d'Aubert et Alain Madelin, pour « injures ou menaces envers le président de la République française », en application de l’article 73 du règlement de l'Assemblée nationale, à une « censure simple » (privation pendant un mois de l'indemnité parlementaire), pour avoir mis en cause le comportement de François Mitterrand durant la Seconde Guerre mondiale.
+
+Personne: Marc Jacquet
+Paragraphe: Finalement le comte de Paris ne parvient pas à prendre le pouvoir et le complot monarchiste est mis à jour par le juge d'instruction Voituriez chargé de l'enquête : Henri d'Astier de La Vigerie, Alfred Pose et Marc Jacquet sont reconnus coupables d'avoir organisé un complot « dans le but de changer de gouvernement, complot qui a été suivi d'un acte destiné à en préparer l'exécution, à savoir : l'assassinat de l'amiral Darlan, chef du gouvernement légalement établi ».
+
+Personne: Pascal Canfin
+Paragraphe: Le 26 avril 2013, à l'occasion d'un déplacement programmé au Mali, Pascal Canfin refuse d'embarquer dans un avion dans lequel était présent un étranger qui était alors éloigné de la France sous escorte policière, condamné pour attaque à main armée et viol aggravé sur mineur, suscitant certaines interrogations dans la presse. L'autre ministre écologiste du gouvernement, Cécile Duflot, déclare alors soutenir Pascal Canfin dans son « refus de cautionner ces expulsions » en affirmant que cette affaire reposait « la question de la double peine ».
+
+Personne: Denise Ginollin
+Paragraphe: Elle prend part ensuite à la Résistance et devient responsable nationale de la propagande chez les femmes, d'abord dans l'Est puis en Bretagne en 1942. Les nazis l’arrêtent le 23 janvier 1943 à Nantes et elle est condamnée le 13 août 1943 par le tribunal militaire allemand de Nantes à la peine de mort. Sa peine est commuée et elle est déportée le 6 septembre 1943 comme « Nuit et brouillard » au camp de concentration de Hinzert, au camp de Ravensbrück, puis à celui de Mauthausen. Elle rentre en France le 29 avril 1945.
+
+Personne: Édouard Limonov
+Paragraphe: Le 31 mai 2009, il est de nouveau arrêté, ainsi que d'autres opposants à Poutine, lors d'une manifestation non autorisée. Limonov avait, à ce moment, déclaré se présenter aux élections présidentielles de 2012.
+
+Personne: Maurice Mességué
+Paragraphe: Maurice Mességué meurt le 16 juin 2017 à l'âge de 95 ans à son domicile d'Auvillar en Tarn-et-Garonne.
+
+Personne: Robert Buron
+Paragraphe: En janvier 1969, avec Guy-Marie-Joseph Riobé, il témoigne au tribunal correctionnel d'Orléans lors du procès de deux prêtres et du philosophe Jean-Marie Muller, réservistes, qui avaient renvoyés leur livret militaire après s'être vu refuser le statut d'objecteur de conscience, dont Robert Buron avait été l'un des instigateurs en 1963.
+
+Personne: Claudy Lebreton
+Paragraphe: Après une très longue instruction, Claudy Lebreton comparait en janvier 2008 devant le Tribunal correctionnel de Paris, pour avoir utilisé un logement de fonction mis à sa disposition par le conseil général des Côtes-d'Armor de septembre 1997 à avril 1999 (préjudice estimé à environ 3 900 €). Dans son jugement rendu le 4 avril 2008, les magistrats estiment que ces faits sont constitués, mais ils le dispensent de peine en soulignant que le dommage a été « réparé », les sommes en cause remboursées et qu'en outre les faits étaient « anciens » et « isolés ». Dans ce dossier concernant d'autres élus, aucun d'entre eux n'a été frappé d'inéligibilité automatique.
+
+Personne: Nidoïsh Naisseline
+Paragraphe: Le 14 novembre 2002, il est condamné par le tribunal correctionnel de Lifou à 50 000 F CFP (419 euros) d'amendes pour violences volontaires en réunion et à verser 337 000 Francs (2824 € environ) pour préjudice subi à un gérant d'un club de plongée de Maré que le grand-chef et d'autres coutumiers avaient frappé puis banni de l'île parce que, selon eux, il était passé avec des plongeurs de manière illicite sur « des lieux marins coutumiers ». 
+
+Personne: Georges Déziré
+Paragraphe: Candidat malheureux aux législatives en 1936, il est quelques mois plus tard désigné secrétaire de la région Basse-Seine du PCF (qui regroupe la Seine-Inférieure et l'Eure). Soutien sans faille de la direction du parti, il bascule dans la clandestinité en 1940, puis dans la résistance après sa condamnation à une peine de prison en février 1941.
+
+Personne: Michel Charasse
+Paragraphe: Lors de l'entre-deux-tours de l'élection présidentielle de 2007, il crée la surprise en recevant chaleureusement, dans sa mairie, le candidat UMP Nicolas Sarkozy. Le 15 avril 2008, Michel Charasse est suspendu du Parti socialiste sur décision du bureau national, pour avoir soutenu un candidat dissident à la présidence du conseil général du Puy-de-Dôme.
+
+Personne: Jean-Claude Lefort
+Paragraphe: En juin 2015, il met en garde les musulmans contre des produits israéliens, avertissement commenté dans la presse.Gilles-William Goldnadel dépose plainte contre lui au nom de l'association France-Israël. Jean-Claude Lefort remporte le procès.
+
+Personne: Patrice Verchère
+Paragraphe: Il est débouté en juin 2022 de la poursuite judiciaire intentée envers le syndicat Sud Education 93, et condamné avec quatre parlementaires LR à verser 5 000 euros au syndicat.
+
+Personne: Antoine Léaument
+Paragraphe: Le 28 novembre 2024, lors de l'examen de la proposition de loi sur d'abrogation de la réforme des retraites, Antoine Léaument est personnellement visé et menacé par le député Modem Nicolas Turquois, obligeant Marc Fesneau, président du groupe MoDem, à s'interposer "entre les deux hommes", avant que des vidéos montrent Nicolas Turquois "escorté en dehors de l'hémicycle par les huissiers" , comme il l'avait déjà été le 19 juillet 2020. La porte-parole du gouvernement Maud Bregeon a qualifié sur France2 d’« inadmissibles » et « déplorables » les images de son éviction par les huissiers, tout en jugeant légitime que le débat « soit parfois tendu ».
+
+Personne: Christiane Demontès
+Paragraphe: En mars 2008, elle remporte les élections municipales à Saint-Fons, au second tour avec 51,07 % des voix, et devient maire de la ville. En octobre 2008, le tribunal administratif de Lyon annule ces élections et condamne la première secrétaire fédérale du PS à un an d'inéligibilité pour un dépassement de 4 000 euros dans ses comptes de campagne. Cependant, elle est finalement confirmée dans ses fonctions et accomplit son mandat de maire jusqu'en 2014.
+

@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Jacques Chambaz
+Paragraphe: Lors des événements de Mai 68, Jacques Chambaz, fait partie des vingt députés communistes qui déposent, avec 49 autres, une motion de censure le 14 mai à l’Assemblée nationale, laquelle condamne le régime gaulliste qui « dix ans après sa prise de pouvoir […] refusant tout dialogue véritable, contraint les étudiants, les enseignants, les paysans, les ouvriers, les jeunes sans emploi, à recourir à des manifestations de rue d’une exceptionnelle ampleur ».
+
+Personne: Marc Goua
+Paragraphe: Proche de La République en marche, il est un ancien membre du Parti socialiste. Il quitte la vie politique à la fin de l'année 2021 après le début de son jugement concernant sa gestion de sa commune (le tribunal décidera d'une relaxe) et la circulation d'une vidéo intime.
+
+Personne: Jacqueline Dubois
+Paragraphe: Lors des élections législatives de 2022, elle est écartée par son parti au profit de Jérôme Peyrat. Elle choisit néanmoins de présenter une candidature dissidente malgré le retrait du candidat du parti présidentiel, condamné en 2020 pour violence volontaire sur son ancienne compagne. Elle est battue au second tour par Sébastien Peytavie, investi par la Nupes, qui obtient 55,52 % des suffrages.
+
+Personne: Pierre-Olivier Lapie
+Paragraphe: Mobilisé le 2 septembre 1939 comme lieutenant de réserve de la Légion étrangère, il est envoyé sur le front de l'Est et devient officier de liaison au 1er régiment de la garde britannique. En février 1940, il se porte volontaire comme officier interprète pour le Corps expéditionnaire de Scandinavie et participe comme capitaine à l'expédition de Norvège — il reçoit pour cela la Croix de guerre (Norvège) — au sein de la 13e demi-brigade de Légion étrangère, avant de rejoindre Londres dès le 22 juin 1940. De Gaulle le nomme directeur des Affaires extérieures dans son cabinet en juillet, fonction qu'il occupe jusqu'en septembre. À ce titre, il négocie l'accord du 7 août 1940 qui fixe les relations entre la France libre et le gouvernement britannique. En juillet 1940, il est condamné à mort par contumace par un tribunal de Vichy.
+
+Personne: Steeve Briois
+Paragraphe: Jugé le 3 septembre 2024 avec trois autres cadres du RN par le tribunal correctionnel de Nanterre pour incitation à la discrimination Steeve Briois est relaxé.
+
+Personne: Alex Wiltzer
+Paragraphe: Le 19 juin 1940, il fait partie des parlementaires qui embarquent à bord du Massilia. Arrêté plus de deux mois après, il est jugé avec Jean Zay, Pierre Mendès France et Pierre Viénot par le tribunal militaire permanent de la 13e division militaire, siégeant à Clermont-Ferrand, qui prononce un non-lieu. Il rejoint alors la France Libre et fait plusieurs actes de résistance ce qui lui permet d'obtenir une place à l'Assemblée consultative provisoire. Il devient membre, en décembre 1944, du comité départemental de Libération de la Moselle.
+
+Personne: Arno Klarsfeld
+Paragraphe: D'octobre 1997 à avril 1998, Arno Klarsfeld représente l'association des Fils et filles de déportés juifs de France lors du procès de Maurice Papon. Il se démarque des autres parties civiles, qui demandent la réclusion à perpétuité, en réclamant une condamnation à dix ans de prison.
+
+Personne: Jean-Louis Tixier-Vignancour
+Paragraphe: Son concurrent demande l'invalidation de l'élection pour fraude électorale. Le rapport parlementaire consacré au scrutin fait état d’irrégularités pour le candidat Tixier-Vignancour, et le rapporteur, le député socialiste Camille Bedin, propose d'annuler l'élection. Le rejet successif d'une motion de validation de l'élection puis de la proposition d'une enquête conduisent le 17 juillet à l'annulation de fait du scrutin. Le 27 septembre 1936, lors de l'élection législative partielle, il est réélu dès le premier tour avec 8 197 voix contre 6 659 à Georges Moutet.
+
+Personne: Laurence Rossignol
+Paragraphe: Éliminée par les militants PS de son département en vue des élections sénatoriales de 2023, Laurence Rossignol est « parachutée » par le Parti socialiste pour ce scrutin dans le Val-de-Marne, où elle occupe la deuxième place sur la liste conduite par le communiste Pascal Savoldelli, sur fond de division à gauche.
+
+Personne: Christophe Girard (homme politique)
+Paragraphe: Dans le cadre des élections municipales de 2014 à Paris, une primaire PS a lieu dans le 4e arrondissement pour départager Christophe Girard, le maire sortant, d'une militante socialiste, Madeleine Houbart. Battue de justesse, elle porte l'action en justice, alors que Girard est officiellement investi. Elle est finalement déboutée et Christophe Girard est réélu maire de justesse à l'issue du second tour des élections municipales, face à la liste UMP-UDI-MoDem menée par Vincent Roger.
+
+Personne: Jacques de Chateauvieux
+Paragraphe: Son parcours professionnel est entaché par une mise en examen pour corruption en 1996 . Reconnaissant les faits, il a ensuite posé à genoux en une du journal Le Quotidien de la Réunion pour implorer le pardon des Réunionnais.
+
+Personne: Yves Nidegger
+Paragraphe: Il défraie la chronique au début des années 2000 en raison d'un procès, avec recours jusqu'au Tribunal fédéral, contre le syndicat Unia, qui l'a licencié de son poste de juriste en raison des liens qu'il avait précédemment entretenus avec la secte Moon. Il porte également plainte contre plusieurs journaux pour diffamation. La justice confirme le bien-fondé du licenciement, mais condamne le syndicat pour son caractère immédiat et pour la publicité donnée à l'affaire.
+
+Personne: Henry Canacos
+Paragraphe: Il perd son mandat de député en 1981. Réélu maire, avec quelques voix d'avance seulement, en mars 1983, les élections sont annulées pour fraude. Il perd également ce mandat. En mars 1991, il est condamné par le tribunal correctionnel de Pontoise pour fraude électorale aggravée.
+
+Personne: Jean Baylet
+Paragraphe: À la Libération, il siège notamment à la Haute Cour de Justice, en tant que juré parlementaire. En juin 1949, il fait ainsi partie du jury chargé de juger René Bousquet et ses activités au cours de l'Occupation, notamment en tant que secrétaire général de la police. René Bousquet est acquitté par la Haute Cour. Cette décision donnera par la suite lieu à de nombreuses critiques, du fait notamment des relations amicales et professionnelles unissant Jean Baylet et René Bousquet.
+
+Personne: Michel Poniatowski
+Paragraphe: Après l'assassinat de Jean de Broglie, L'Express, en janvier 1977, puis Le Canard enchaîné, en 1980, publient des documents selon lesquels Michel Poniatowski aurait été au courant des menaces de mort pesant sur lui. Sans preuves, Poniatowski présente Patrick de Ribemont comme coupable dans cette affaire, acte qui a valu à la France de faire l'objet par la suite d'une condamnation par la Cour européenne des droits de l'homme, Patrick de Ribemont ayant été mis hors de cause, en 1996.
+
+Personne: Jacques Chérèque
+Paragraphe: Comprenant que la sidérurgie lorraine est condamnée, il cherche des solutions de remplacement. Le ministre de l'Industrie Laurent Fabius lui propose, après avoir obtenu l'accord du président François Mitterrand, d'être nommé préfet délégué pour le redéploiement industriel en Lorraine (1984), ce qu'il accepte. En 1986, lorsque François Mitterrand nomme Jacques Chirac chef du gouvernement, celui-ci lui dit : « Je vous maintiens parce que mes amis en Lorraine me disent que ce serait une connerie de vous enlever ».
+
+Personne: Yann Wehrling
+Paragraphe: Le 11 mai 2006, durant la période du débat parlementaire sur la loi sur l'eau, Yann Werhling accompagne les Verts de l'Indre sur les bords du ruisseau du Menet à proximité de Vatan où ils dénoncent les « gabegies d’eau » qui concernent les arrosage des cultures céréalières. L'exploitant agricole et sénateur UMP du Cher, Rémy Pointereau porte plainte pour diffamation et le secrétaire national du parti écologiste est convoqué au tribunal de Châteauroux. « J’irai à Châteauroux pour réitérer mes propos », assure Wehrling qui veut « symboliquement attirer l'attention sur ce système qui consiste à ne pas économiser l'eau quand ce sont les grands céréaliers qui sont concernés ». Finalement le sénateur du Cher retira sa plainte
+
+Personne: Pierre Celor
+Paragraphe: Condamné en 1947 à sept ans de prison pour collaboration par la Haute Cour de Justice, il bénéficie d'une grâce deux ans plus tard. 
+
+Personne: Tayeb Belaïz
+Paragraphe: Tayeb Belaïz est un homme politique et juge algérien né le 21 août 1948 à Maghnia et mort le 13 mai 2023 à Oran.
+
+Personne: Hervé Le Helloco
+Paragraphe: Après l'armistice du 24 juin 1940, il devient agent de liaison entre les activistes bretons et les services secrets allemands du SD. Il participe au journal collaborationniste L'Heure bretonne où il est résolument engagé en faveur de l'Allemagne, mais aussi en faveur de la destruction de la France et des Juifs. En juillet 1944, il s'engage dans la Bezen Perrot et est notamment à l'origine de l'opération menée contre le maquis de Broualan. Le 2 août 1944, il s'enfuit en Allemagne, en compagnie notamment de Roparz Hémon et ultérieurement au Pays de Galles. Condamné pour haute trahison à la peine de mort par contumace et à la confiscation de ses biens à la Libération.
+

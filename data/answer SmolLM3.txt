@@ -1,0 +1,19 @@
+<think>
+Okay, let's see. I need to go through each person and their respective paragraph and determine if the paragraph states that the person was convicted by the justice. If yes, I write "OUI" followed by their name; if not, "NON" followed by their name. No other information is allowed.
+
+Starting with the first person: André Halbout. The paragraph talks about his election as mayor of Vire in 1945, re-election in 1947 and 1953, and his resignation in 1958 due to losing the cantonal elections. The last part mentions that some days after his resignation, the entire municipal council resigned. There's no mention of any conviction here. So the answer should be NON.
+
+Next, Emmanuel d'Astier de La Vigerie. The paragraph mentions he was a witness of moral integrity for the journal Les Lettres françaises in a 1949 trial against Viktor Kravchenko. The trial was about Kravchenko's book, which accused the Soviet Union. The text states that Emmanuel d'Astier de La Vigerie judged Kravchenko's book as an "appel à la guerre contre les Soviets." The trial resulted in Kravchenko winning. The key here is whether Emmanuel was convicted. The paragraph doesn't say he was convicted; he was a witness and had his opinion. So the answer is NON.
+
+Third person: François de Menthon. The paragraph says he was a minister of Justice in the provisional government under de Gaulle from September 1944 to May 1945. He was involved in the trial of Pétain, the conviction of Charles Maurras to life imprisonment, and the initiation of the crime of indignité nationale under the purges. The text also mentions that he was criticized by communists and socialists for not purging more anticommunists. The key part here is "condamnation of Charles Maurras to the prison à vie." So François de Menthon was involved in a conviction, specifically the one of Charles Maurras. Therefore, the answer is OUI.
+
+Let me double-check each one to make sure I didn't miss anything. André Halbout: no convictions mentioned. Emmanuel d'Astier de La Vigerie: he was a witness, not convicted. François de Menthon: involved in the conviction of Charles Maurras. Yep, that's correct. So the final answers should be:
+
+André Halbout: NON
+Emmanuel d'Astier de La Vigerie: NON
+François de Menthon: OUI
+</think>
+
+André Halbout: NON  
+Emmanuel d'Astier de La Vigerie: NON  
+François de Menthon: OUI

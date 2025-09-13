@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Laurence Gayte
+Paragraphe: En janvier 2019, elle porte plainte contre un Gilet jaune de sa circonscription qui lui a envoyé de multiples menaces de mort par e-mail. L'inculpé, un octogénaire de Pézilla-la-Rivière, est condamné deux mois plus tard à une amende de 600 euros.
+
+Personne: Meriem Belmihoub
+Paragraphe: Dès 1955, étudiante, elle s’engage dans le Front de libération nationale (FLN) et dans l’armée de libération nationale, créés l’un et l’autre peu de temps auparavant. En 1956, elle rejoint le maquis, répondant à un appel en ce sens du FLN vers les étudiants, et y apportant son concours comme infirmière. Elle est arrêtée en avril 1957, jugée par une juridiction d'exception, le tribunal permanent des forces armées françaises, et emprisonnée. Elle passe cinq ans en prison. Elle est libérée en juillet 1962, dans le cadre des accords d'Évian entre le Gouvernement de la République française et le Gouvernement provisoire de la République algérienne (GPRA), qui mettent fin à la guerre d'Algérie.
+
+Personne: Nathalie Oziol
+Paragraphe: Née à Toulouse le 18 février 1990, Nathalie Oziol suit des études de langue. Elle est reçue à l'agrégation d'anglais en 2013. Elle soutient en 2020 une thèse de doctorat d'anglais sur la langue des condamnés à mort dans le théâtre de Shakespeare.
+
+Personne: Maurice Vincent (homme politique, 1955)
+Paragraphe: En octobre 2009, Maurice Vincent et la ville de Saint-Étienne assignent la Deutsche Bank devant le tribunal de grande instance (TGI) de Paris pour faire annuler un "emprunt toxique" de 20 millions d’euros souscrit par son prédécesseur le radical Michel Thiollière. Saint-Étienne est alors la première ville française à annoncer l’assignation d’une banque dans le cadre de la lutte des collectivités locales contre ces emprunts à risques. Fin 2013, il a réduit de 70% la part des emprunts toxiques de la ville de Saint-Étienne, et de 30 millions d'euros le montant de la dette.
+
+Personne: Jean Frydman
+Paragraphe: Arrêté à l'été 1944, emprisonné à Fresnes — sa dernière adresse est au 4 rue Martel à Paris 10e — il est condamné à mort. Il attend chaque jour la mort mais échappe au peloton d'exécution grâce à l'intervention inattendue d'Aloïs Brunner. Transféré au camp de Drancy, il est évacué vers Buchenwald dans le dernier convoi à destination des camps de la mort : le convoi no 79 en date du 17 août 1944, dans lequel il fait la connaissance de Marcel Dassault. Mais il réussit à s'évader du train.
+
+Personne: Laurent Fabius
+Paragraphe: Finalement, Laurent Fabius est élu premier secrétaire du Parti socialiste le 9 janvier 1992, et démissionne de la présidence de l'Assemblée nationale le 21 janvier. Il restera premier secrétaire du PS jusqu’au congrès du Bourget, qui suit la défaite de la gauche aux législatives de 1993. Cependant, le PS subit une perquisition menée par le juge Renaud Van Ruymbeke, le jour même de son installation au siège du parti, le 9 janvier 1992. Il quitte la direction du PS l'année suivante, Michel Rocard lui succédant.
+
+Personne: Georges Theil
+Paragraphe: Membre du Front national, il a été condamné à plusieurs reprises pour négationnisme.
+
+Personne: Marcel Bouyer
+Paragraphe: Réfugié dans l'Espagne franquiste, Bouyer revient finalement en France l'année suivante. Il est arrêté et condamné par un tribunal militaire à douze ans de prison. Il est cependant libéré en 1967, à la suite d'une remise de peine décidée par décret.
+
+Personne: Louis Bernard (homme politique, 1914-1946)
+Paragraphe: Arrêté par la gendarmerie en février 1941, il est condamné à huit mois de prison pour « menées communistes ». Il parvient cependant à s'évader en novembre, et se réfugie dans l'Indre, où il est de nouveau arrêté en décembre. Sa peine étant aggravée, il est détenu à Saint-Paul-d'Eyjaux jusqu'en juin 1943, puis au pénitencier de l'Ile de Ré, tenu par les Allemands.
+
+Personne: Christophe Barthès
+Paragraphe: Il est assigné aux Prud'hommes par son ex-collaborateur parlementaire, licencié en juin 2023, qui obtient en novembre 2024 sa condamnation au versement de deux mois de salaire.
+
+Personne: Pierre Gérard
+Paragraphe: En 1949, il est condamné à l'indignité nationale à vie par la cour de justice de la Seine. Valérie Igounet avance qu'« il a certainement bénéficié d'une amnistie pendant les années cinquante ».
+
+Personne: Michel Moine (homme politique)
+Paragraphe: Élu conseiller général du canton d'Aubusson en mars 2004, il a occupé la sixième vice-présidence de l'assemblée départementale, chargé de l'enfance et de la famille. Au renouvellement de mars 2011, Michel Moine a été battu d'une voix par son concurrent divers droite, Jean-Marie Massias.Michel Moine a contesté cette élection devant le tribunal administratif de Limoges qui lui a donné raison. L'élection a été annulée. Michel Moine a alors  fait appel devant le Conseil d'État pour inverser le résultat de l'élection à son profit. Pour clarifier la situation son adversaire a démissionné de son poste de conseiller général. Une nouvelle élection a été fixée au 25 septembre 2011 par arrêté préfectoral. Une nouvelle requête de Michel Moine devant le tribunal administratif de Limoges pour annuler la décision du préfet a été rejetée. L'élection a eu lieu à la date prévue. Michel Moine  a été cette fois nettement battu (44,15 % des voix contre 55,95 % à son adversaire Jean-Marie Massias), étant même devancé dans la ville d'Aubusson dont il est le maire. Son recours au Conseil d'État a été rejeté.
+
+Personne: Yves-Marie Laulan
+Paragraphe: En 2009, il est condamné à une amende de 3 000 euros, en mai 2009, par le tribunal correctionnel de Paris, pour provocation à la haine envers les Roms, pour une déclaration faite en février 2005, sur France 5, dans une émission C dans l'air consacrée à la délinquance parmi les gens du voyage.
+
+Personne: Maurice Brugnon
+Paragraphe: Fils de domestiques de ferme, Maurice Brugnon obtient son certificat d'études et réussit à poursuivre ses études. Après l'école normale, à 19 ans, il commence à enseigner comme instituteur dans sa commune natale puis à Watigny. Avec la guerre, il est enrôlé dans l'armée. Il est fait prisonnier à Dunkerque mais il s'évade et revient à Watigny. Il s'engage dans la résistance locale. Après la guerre, il devient directeur d'école à Laon en 1946. En 1964, il prend sa retraite et il rentre à Saint-Michel. La même année, il devient conseiller général du canton d'Hirson puis maire de Saint-Michel en 1965. En 1967, il est élu député de la troisième circonscription du département et il le demeure jusqu'en 1981. Il se spécialise dans les questions d'enseignement, de transport fluvial et d'industrie agro-alimentaire. Il ne se représente pas pour un nouveau mandat de conseiller général en 1988 et il démissionne de son poste de maire de Saint-Michel en 1991. Il meurt le 21 août 1997 à l'âge de 88 ans.
+
+Personne: Pierre Simon (médecin)
+Paragraphe: En 1969, il oriente alors son action vers les questions liées à l'avortement, qui reste illégal en France, et dans cette perspective, participe à la fondation de l'Association nationale pour l'étude de l'avortement (ANEA) avec le Dr Jean Dalsace et Anne-Marie Dourlen-Rollier. Cette association prend sa place dans les débats concernant cette revendication de dépénalisation, dans lesquels s'engagent également le planning familial, présidé par Simone Iff, mais aussi des mouvements militants féministes, tels le MLF français, le mouvement féministe Choisir ou encore le mouvement protestant Jeunes Femmes, ainsi que des personnalités emblématiques de la société civile, telles Simone de Beauvoir qui rédige le texte du Manifeste des 343 en 1971 ou Gisèle Halimi qui obtient l'acquittement d'une jeune fille mineure au procès de Bobigny en 1972.
+
+Personne: Alfred Bérenguer
+Paragraphe: En janvier 1959, un mandat d'arrêt est délivré à son encontre, le contraignant ainsi à passer le reste de la guerre en exil à La Havane et Tunis. 
+
+Personne: Amar Bentoumi
+Paragraphe: Non reconduit dans le second gouvernement Ben Bella, il est arrêté et est emprisonné dans le désert Algérien, auprès de Ferhat Abbas et bien d'autres pendant plus d'un an en 1963. Il reprend son métier d'avocat en 1965, avant de devenir bâtonnier d'Alger en 1971. Il est membre du comité de parrainage du Tribunal Russell sur la Palestine dont les travaux ont été présentés le 4 mars 2009.La dernière année de sa vie il s'attaquera violemment à Ben Bella qu'il accusera d'avoir dénoncé l'ensemble des membres de l'OS(Organisation spéciale) lors de son arrestation à la suite de l'attaque de la poste d'Oran. Il défendra Abane Ramdane comme militant intègre face aux tentatives de Ben Bella 
+
+Personne: Robert Alloyer
+Paragraphe: 1930 : clandestin, il est dans le Nord de la France. En juillet, il est arrêté à Lille au cours d'une manifestation et à nouveau condamné par la justice.
+
+Personne: Michel Bernast
+Paragraphe: Néo-Calédonien, il est dans les années 1950 l'un des dirigeants du Syndicat autonome des mines et de l'industrie, ce qui fait de lui l'un des principaux dirigeants syndicaux dans la Nouvelle-Calédonie de cette époque. Il s'engage en politique dans l'Union calédonienne, parti autonomiste qui tente de bâtir une entente entre Kanaks et Caldoches. Il en devient le secrétaire général lors du congrès constitutif du parti en 1956, et occupe cette fonction lorsqu'il est arrêté en mai 1962 et inculpé pour non-dénonciation de la préparation d'un délit. Il est accusé d'avoir su que deux membres du partis projetaient de dynamiter les locaux du journal L'Avenir calédonien. Reconnu coupable, il est condamné à deux ans de prison.
+
+Personne: Yann Fouéré
+Paragraphe: Condamné par contumace en 1946 pour faits de collaboration, il est acquitté et réhabilité en 1955 par un tribunal militaire.
+

@@ -1,0 +1,62 @@
+Pour chaque personne et chaque paragraphe ci-dessous, indique si le paragraphe affirme que la personne en question (nommée juste avant le paragraphe) a été condamnée par la justice, en écrivant le nom de la personne, suivi de OUI ou NON. Ne dis rien d'autre. Les condamnations d'autres personnes ne comptent pas.
+
+Personne: Jean-Luc Schaffhauser
+Paragraphe: À la suite de la révélation de son rôle d'intermédiaire auprès d'une banque russe, le Parlement européen lance en décembre 2014 une vérification de sa déclaration d'intérêts, procédure qui peut mener à une enquête parlementaire et à des sanctions. Jean-Luc Schaffhauser se déclare victime d'une cabale orchestrée par le Parlement à cause de sa russophilie. Dans sa déclaration d'intérêt remaniée en décembre 2014, il indique avoir perçu plus de 10 000 € brut par mois à titre de consultant international jusqu'en juin 2014, et percevoir une indemnité mensuelle de 1 500 € en tant que conseiller municipal et communautaire mais maintient n'avoir reçu aucun versement d'une banque russe.
+
+Personne: René Tys
+Paragraphe: Il s'engage dans la Marine en 1939, puis après avoir notamment stationné au Liban, il rentre en France. Il retrouve son emploi à Panhard mais il est envoyé au STO début 1943. En Allemagne, il est à deux reprises condamné à la prison pour tentative d'évasion puis sabotage. À la Libération, il rejoint le Parti communiste français.
+
+Personne: Napole Polutele
+Paragraphe: Le 2 février 2018, statuant sur un recours déposé par Sylvain Brial, le Conseil constitutionnel annule son élection en raison de défauts d'émargement lors du vote. Lors de l'élection partielle organisée le 15 avril 2018, il est classé divers droite et soutenu par l'UDI. Il obtient 48,4 % des voix dans un duel l'opposant au premier tour à Sylvain Brial (LR), qui lui succède ainsi à l'Assemblée nationale. Le Conseil constitutionnel rejette par la suite un recours formé par Napole Polutele contre cette élection.
+
+Personne: Élisa Martin
+Paragraphe: En juin 2024, après que Le Canard enchaîné a révélé qu'Éric Piolle aurait demandé à l'un de ses plus proches conseillers de rétrocéder une partie de son salaire à son ancienne première adjointe, le parquet de Grenoble ouvre une enquête visant les trois protagonistes de cette affaire pour « concussion » et « recel de concussion ». Elle est accusée d'avoir touché 400 euros, versés de la main à la main, par mois pendant trois ans et demi (16 800 euros au total), alors qu'elle était première adjointe du maire de Grenoble Éric Piolle.
+
+Personne: Jean-Pierre Brard
+Paragraphe: Il est condamné le 18 décembre 2008 à 1 500 € d'amende, à 2 000 € de frais de procédure et 5 000 € de dommages-intérêts pour discrimination religieuse. La peine est confirmée en appel le 8 janvier 2010, et son pourvoi en cassation est rejeté le 1er septembre 2010.
+
+Personne: Sylvain Berrios
+Paragraphe: Selon un article du Parisien du 26 novembre 2024 une enquête préliminaire a été ouverte par le parquet de Créteil à la suite d'une plainte de l'association AC! Anticorruption déposée contre Sylvain Berrios en mars 2024, Sylvain Berrios réfute toutes les accusations de l’association AC.
+
+Personne: Georges Archidice
+Paragraphe: Engagé dans la résistance en janvier 1941, il entre en clandestinité pour échapper à la police allemande après avoir été condamné à mort par un tribunal militaire allemand. Lieutenant-colonel des FFI, il est un des principaux animateurs de la résistance dans son département. Son engagement pendant l'occupation lui vaut la légion d'honneur, la croix de guerre et de la médaille de la résistance.
+
+Personne: Laurent Panifous
+Paragraphe: Lors des élections législatives de 2022, il se porte candidat dans la deuxième circonscription de l'Ariège le 19 juin 2022. Dissident du Parti socialiste, il s'oppose à l'accord de la Nouvelle Union populaire écologique et sociale (NUPES), qu'il juge « déséquilibré », et reçoit le soutien de la présidente du Conseil régional d'Occitane Carole Delga, et de l'ancien Premier ministre Bernard Cazeneuve. Il est suspendu du PS du fait de sa candidature dissidente.
+
+Personne: Nicolas Forissier
+Paragraphe: Après la dissolution de l'Assemblée nationale le 9 juin 2024, il se représente aux législatives. Après avoir hésité à prendre l'étiquette LR, il condamne la décision d'Éric Ciotti d'avoir noué une alliance avec le RN.
+
+Personne: Élie Castor
+Paragraphe: Il fut d'abord mis en examen le 17 janvier 1996 pour détournement de fonds publics, faux et usage de faux et prise illégal d'intérêt. Il est à nouveau placé en détention provisoire en février 1996 et mis en examen dans le cadre de l'affaire Pacary. Il est libéré le 14 mars 1996.
+
+Personne: Geoffroy Boulard
+Paragraphe: En mars 2018, il condamne les agressions des personnes trans rue de La Jonquière.
+
+Personne: Leïla Chaibi
+Paragraphe: Leïla Chaibi dénonce la décision du président Emmanuel Macron de remettre la légion d’honneur à Jeff Bezos, fondateur d’Amazon. « Une récompense bien méritée de la main du président des riches », ironise-t-elle.
+
+Personne: Roger Diet
+Paragraphe: La poussée nationale et la radicalisation des positions gaullistes contre la Quatrième République rendent l'alliance entre RPF et MRP dans la municipalité dirigée par Diet de moins en moins tenable. Les conseillers RPF démissionnent en bloc et une élection partielle est organisée en octobre 1952. Celle-ci tourne en faveur d'une opposition coalisant MRP, radicaux et divers candidats du centre gauche. Roger Diet perd son mandat de maire.
+
+Personne: Henri Bouret
+Paragraphe: Henri Bouret meurt prématurément le 24 février 1971, à l'âge de 54 ans.
+
+Personne: Pierre Mauroy
+Paragraphe: Pierre Mauroy retourne alors dans le Nord, où il possède un poids politique important. Au conseil municipal de Lille, le 17 février 1984, il avait fait voter la construction d'une statue pour le cardinal Liénart, ce qui entraîne un procès médiatique devant le tribunal administratif de Lille. En 1995, il entre en compétition avec le maire de Lyon, à qui il a succédé à Matignon en 1981, Raymond Barre, dans la désignation de la ville française candidate pour l'organisation des Jeux olympiques d'été de 2004. Lille est finalement préférée à Lyon par le Comité national olympique et sportif français (CNOSF) le 7 novembre 1995.
+
+Personne: Ouali Azem
+Paragraphe: Il est cité par la défense de Raoul Salan lors de son procès en mai 1962. Ne pouvant venir témoigner, sa protection par la Préfecture de Police n’étant plus assurée, il écrit cependant à propos de l’Algérie : « Le gouvernement a changé de cap. Le général Salan n’a pas admis cet abandon, et c’est pourquoi il se trouve devant vous. »
+
+Personne: Paul Gondjout
+Paragraphe: Nommé à la Cour des comptes en 1963, il accepte en février 1964 de participer au gouvernement provisoire dirigé par Aubame à l'issue du coup d'État du 17 février. Mais la France rétablit Mba par la force qui envoie à Dom-Les-Bam (prison sous forme de résidence surveillée) tous ses adversaires politiques. Le Procès de Lambaréné qui suit permet de libérer Gondjout et de mettre fin à la carrière politique de Aubame. Gondjout est pourtant affaibli. La mort de Léon Mba n'y fait rien. il perd définitivement son influence. Il revient tout de même à la tête de l'Assemblée nationale de 1975 à 1980.
+
+Personne: Claude Malhuret
+Paragraphe: L'année suivante, le 5 mars 2025, devant le Sénat au sujet du soutien à l'Ukraine face à l'invasion russe, il prononce un discours cinglant, durant lequel il appelle à plus d'indépendance européenne vis-à-vis des États-Unis de Donald Trump et dit : « Washington est devenu la cour de Néron. Un empereur incendiaire, des courtisans soumis et un bouffon sous kétamine chargé de l'épuration de la fonction publique (il cite, sans le nommer Elon Musk). C'est un drame pour le monde libre, mais c'est d'abord un drame pour les États-Unis. Dans le bureau ovale, le planqué du service militaire (il s'agit de Donald Trump) donnait des leçons de morale au héros de guerre Volodymyr Zelensky. » Claude Malhuret évoque ensuite la Constitution des États-Unis et déclare à ce sujet en parlant de l'ensemble des présidents des États-Unis : « Jamais aucun n'a piétiné la Constitution américaine, pris autant de décrets illégaux, révoqué les juges qui pourraient l'en empêcher, limogé d'un coup l'état-major militaire, affaibli tous les contre-pouvoirs et pris le contrôle des réseaux sociaux. Ce n'est pas une dérive illibérale, c'est un début de confiscation de la démocratie. Rappelons-nous qu'il n'a fallu qu'un mois, trois semaines et deux jours pour mettre à bas la République de Weimar et sa Constitution. » 
+
+Personne: Boris Vallaud
+Paragraphe: Au même moment, Le Monde et un collectif de médias internationaux sortent l’affaire des CumEx Files. Considérant l’affaire comme « de la fraude fiscale aggravée », Boris Vallaud décide de porter plainte contre X pour blanchiment de fraude fiscale et escroquerie aggravée auprès du parquet national financier le 29 novembre 2018. Lors d’une réunion publique dans sa circonscription des Landes, il évoque sa démarche auprès des habitants. 250 se joignent alors à lui et portent également plainte, devant le « Collectif de Citoyens en Bande Organisée ». Boris Vallaud justifie cet intérêt par « un appétit de justice énorme : les gens ne sont pas contre payer des impôts, ils veulent que tout le monde les paye ».
+
+Personne: Henri Guichon
+Paragraphe: Arrêté en février 1942 pour avoir fourni des armes au maquis de Meillard, il est condamné à trois ans de prison pour activité communiste. De février 1942 à juin 1944, il est détenu au camp de Mauzac, en Dordogne, dont il est libéré par la résistance. Il rejoint alors la lutte armée dans les rangs de la résistance, jusqu'en novembre 1945.
+
