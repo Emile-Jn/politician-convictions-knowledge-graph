@@ -1,0 +1,349 @@
+P106 occupation
+P10328 ICPSR Personal Names Authority List ID
+P10780 Radio France person ID
+P8094 GeneaStar person ID
+P2600 Geni.com profile ID
+P11182 UOM ID
+P6844 abART person ID
+P1207 NUKAT ID
+P12865 Archelec person ID
+P11239 DFK Paris person ID
+P4666 CineMagia person ID
+P103 native language
+P31 instance of
+P3509 Dagens Nyheter topic ID
+P1429 has pet
+P551 residence
+P1816 National Portrait Gallery (London) person ID
+P6081 RIA Novosti reference
+P3846 DBC author ID
+P11686 University of Barcelona authority ID
+P793 significant event
+P866 Perlentaucher ID
+P5551 Courrier international topic ID
+P1581 official blog URL
+P3980 Unifrance person ID
+P349 NDL Authority ID
+P9231 Archivo Linz de la Transición Española ID
+P13403 Delfi.ee theme ID
+P3219 Encyclopædia Universalis ID
+P5008 on focus list of Wikimedia project
+P7212 LyricsTranslate ID
+P735 given name
+P11514 Great Russian Encyclopedia portal ID
+P13295 ERR keyword ID
+P2019 AllMovie person ID
+P2734 Unz Review author ID
+P3348 National Library of Greece ID
+P7293 National Library of Poland MMS ID
+P1695 NLP ID
+P2190 C-SPAN person string ID (deprecated)
+P9964 Kalliope-Verbund (GND) ID
+P1559 name in native language
+P7400 LibraryThing author ID
+P1741 GTAA ID
+P7026 Lebanese National Library ID
+P648 Open Library ID
+P13166 PUG authority ID
+P3479 Omni topic ID
+P13049 DDB person (GND) ID
+P5034 National Library of Korea ID
+P8168 FactGrid item ID
+P2889 FamilySearch person ID
+P3987 SHARE Catalogue author ID
+P11120 Rai Teche person ID
+P3388 LittleSis people ID
+P269 IdRef ID
+P734 family name
+P4527 UK Parliament thesaurus ID
+P1607 Dialnet author ID
+P599 ITF player ID before 2020 (archived)
+P1442 image of grave
+P1280 CONOR.SI ID
+P7284 The Independent topic ID
+P6058 Larousse ID
+P12385 Gran Enciclopèdia Catalana ID
+P906 SELIBR ID
+P4789 Who's Who UK ID
+P6200 BBC News topic ID
+P1449 nickname
+P1185 Rodovid ID
+P800 notable work
+P10553 IxTheo authority ID
+P5617 Evene ID
+P8136 Il Sole 24 Ore topic ID
+P12176 Propylaeum-VITAE ID
+P1255 HelveticArchives ID
+P25 mother
+P4939 VERIF ID
+P1309 EGAXA ID
+P3280 BAnQ authority ID
+P3267 Flickr user ID
+P8547 BHF author ID
+P27 country of citizenship
+P373 Commons category
+P271 NACSIS-CAT author ID
+P4124 Who's Who in France biography ID
+P2604 Kinopoisk person ID
+P7699 National Library of Lithuania ID
+P3373 sibling
+P1953 Discogs artist ID
+P1477 birth name
+P7666 Visuotinė lietuvių enciklopedija ID
+P5587 Libris-URI
+P463 member of
+P7553 Sinemalar person ID
+P646 Freebase ID
+P1596 penalty
+P1532 country for sport
+P9247 Pontifical University of Salamanca ID
+P6677 OpenEdition Books author ID
+P607 participated in conflict
+P9251 Cyprus University of Technology ID
+P5019 Brockhaus Enzyklopädie online ID
+P4804 Compagnon de la Libération ID
+P13526 Euronews topic ID
+P12582 Oxford Reference overview ID
+P1015 NORAF ID
+P3644 FFR player ID
+P6394 ELNET ID
+P937 work location
+P7902 Deutsche Biographie (GND) ID
+P1808 senat.fr ID
+P5063 Interlingual Index ID
+P1005 Portuguese National Library author ID
+P3602 candidacy in election
+P12800 Vikidia article ID
+P691 NL CR AUT ID
+P1412 languages spoken, written or signed
+P396 SBN author ID
+P4223 Treccani's Enciclopedia Italiana ID
+P569 date of birth
+P5641 PRELIB person ID
+P7982 Hrvatska enciklopedija ID
+P641 sport
+P5404 Rate Your Music artist ID
+P7865 CoBiS author ID
+P22 father
+P8189 National Library of Israel J9U ID
+P244 Library of Congress authority ID
+P166 award received
+P535 Find a Grave memorial ID
+P10302 Film.ru person ID
+P345 IMDb ID
+P409 Libraries Australia ID
+P2168 Swedish Film Database person ID
+P2847 Google+ ID
+P102 member of political party
+P9037 BHCL UUID
+P1375 NSK ID
+P1273 CANTIC ID (former scheme)
+P119 place of burial
+P5421 Trading Card Database name ID
+P2383 CTHS person ID
+P2963 Goodreads author ID
+P10832 WorldCat Entities ID
+P18 image
+P1441 present in work
+P8795 Diamond Catalog ID for persons and organisations
+P9171 RILM ID
+P101 field of work
+P564 singles record
+P1617 BBC Things ID
+P1368 National Library of Latvia ID
+P2003 Instagram username
+P2013 Facebook username
+P12086 WikiKids ID
+P10266 AdoroCinema person ID
+P1006 Nationale Thesaurus voor Auteursnamen ID
+P9371 FranceArchives agent ID
+P9438 Europalexikon ID
+P1344 participant in
+P245 Union List of Artist Names ID
+P9937 Postimees topic ID
+P1331 PACE member ID
+P11185 Levadia Library ID
+P8309 Yle topic ID
+P413 position played on team / speciality
+P949 National Library of Israel ID (old)
+P5068 Flanders Arts Institute person ID
+P2924 Great Russian Encyclopedia Online ID (old version)
+P7698 Musée de la Résistance ID
+P701 Dodis ID
+P10632 OpenSanctions ID
+P4123 French National Assembly ID
+P9346 France 24 topic ID (French)
+P11137 Reddit topic ID
+P10021 UAE University Libraries ID
+P8382 Finales Rugby ID
+P6758 supported sports team
+P9995 MYmovies person ID
+P4839 Wolfram Language entity code
+P3192 Last.fm ID
+P2799 BVMC person ID
+P6350 Doctrine ID
+P1045 Sycomore ID
+P10234 Der Spiegel topic ID
+P20 place of death
+P26 spouse
+P1284 Munzinger person ID
+P1296 Gran Enciclopèdia Catalana ID (former scheme)
+P8849 CONOR.BG ID
+P12854 Plex person key
+P5457 Conseil constitutionnel ID
+P4359 gravsted.dk ID
+P10227 National Library of Ireland ID
+P4521 Radio Radicale person ID
+P11496 CiNii Research ID
+P39 position held
+P140 religion or worldview
+P2002 X (Twitter) username
+P2354 has list
+P3065 RERO ID (legacy)
+P7520 Filmový přehled person or company ID
+P54 member of sports team
+P2639 Filmportal ID
+P742 pseudonym
+P2071 Mémoire des hommes ID
+P13058 Madelen person ID
+P1399 convicted of
+P1017 Vatican Library ID (former scheme)
+P6181 Disney A to Z ID
+P4491 Isidore scholar ID
+P3365 Treccani ID
+P7676 Vie publique person ID
+P7300 MUBI person ID
+P485 archives at
+P5695 Bibliopoche author ID
+P2342 AGORHA person/institution ID
+P6385 Krugosvet article (archived)
+P1196 manner of death
+P6119 Letterboxd actor ID
+P5558 Le Monde ID
+P9629 Armeniapedia ID
+P5739 Pontificia Università della Santa Croce ID
+P10163 Kinomania.ru actor ID
+P2626 Danish National Filmography person ID
+P10141 Academy of Athens authority ID
+P5440 Elysee.fr president ID
+P1315 NLA Trove people ID
+P13051 CIRDOC author ID
+P410 military or police rank
+P2605 ČSFD person ID
+P2031 work period (start)
+P4342 Store norske leksikon (Great Norwegian Encyclopedia) ID
+P1712 Metacritic ID
+P4619 National Library of Brazil ID
+P2581 BabelNet ID
+P9807 SNK ID
+P1343 described by source
+P8618 ITF player ID since 2020
+P12458 Parsifal cluster ID
+P1749 Parlement.com ID
+P1819 genealogics.org person ID
+P2188 BiblioNet author ID
+P69 educated at
+P94 coat of arms image
+P7700 Slovak National Library (VIAF) ID
+P5395 Canadian Encyclopedia article ID
+P10297 Google Arts & Culture entity ID
+P6621 Le Figaro tag ID
+P21 sex or gender
+P7444 Rijksmuseum Research Library authority ID
+P10916 Süddeutsche Zeitung topic ID
+P3630 Babelio author ID
+P4293 PM20 folder ID
+P1417 Encyclopædia Britannica Online ID
+P950 National Library of Spain SpMaBN ID (BNE v1.0)
+P1066 student of
+P6886 writing language
+P1225 U.S. National Archives Identifier
+P9984 CANTIC ID
+P1830 owner of
+P9058 Fichier des personnes décédées ID (matchID)
+P555 doubles record
+P5917 Shazam artist ID
+P8286 Olympedia people ID
+P13300 New York Post topic ID
+P451 unmarried partner
+P40 child
+P2949 WikiTree person ID
+P227 GND ID
+P8879 Kinorium person ID
+P5905 Comic Vine ID
+P4862 Amazon author ID
+P1971 number of children
+P6327 Goodreads character ID
+P6404 Treccani's Dizionario di Storia ID
+P10166 Kinobaza person ID
+P3670 Tennis Archives player ID
+P536 ATP player ID
+P6414 DIZIE ID
+P3417 Quora topic ID
+P5033 Filmweb.pl person ID
+P13183 JudaicaLink person (GND) ID
+P1258 Rotten Tomatoes ID
+P935 Commons gallery
+P8851 CONOR.SR ID
+P1186 MEP directory ID
+P6640 JRC Names ID
+P10660 C-SPAN person numeric ID
+P509 cause of death
+P9113 Patrinum ID
+P213 ISNI
+P4985 TMDB person ID
+P13591 Yale LUX ID
+P3430 SNAC ARK ID
+P4602 date of burial or cremation
+P3222 NE.se ID
+P8848 CONOR.AL ID
+P214 VIAF cluster ID
+P8445 Our Campaigns candidate ID
+P8687 social media followers
+P1263 Notable Names Database ID
+P9918 Kallías ID
+P2163 FAST ID
+P6706 De Agostini ID
+P7305 Online PWN Encyclopedia ID
+P3762 openMLOL author ID
+P570 date of death
+P7029 National Library of Russia ID
+P858 ESPNscrum player ID (archived)
+P8793 Quirinale ID
+P1266 AlloCiné person ID
+P1580 University of Barcelona authority ID (former scheme)
+P2435 PORT person ID
+P11249 KBR person ID
+P13255 L'Humanité topic ID
+P7502 Golden ID
+P3448 stepparent
+P3106 Guardian topic ID
+P7929 Roglo person ID
+P6255 SinemaTürk person ID
+P1977 Les Archives du spectacle person ID
+P3368 Prabook ID
+P108 employer
+P19 place of birth
+P8313 Lex ID
+P13457 Ordre national du Québec ID
+P9212 Dizionario biografico online degli anarchici italiani ID
+P4434 LesBiographies.com ID
+P443 pronunciation audio
+P1213 NLC authorities
+P910 topic's main category
+P268 Bibliothèque nationale de France ID
+P8179 Canadiana Name Authority ID
+P1050 medical condition
+P10069 Tabakalera ID
+P8034 Vatican Library VcBA ID
+P3204 Ciné-Ressources person ID
+P53 family
+P109 signature
+P6683 Alexander Turnbull Library ID
+P10242 Lur Encyclopedic Dictionary ID
+P8349 Proleksis enciklopedija ID
+P1038 relative
+P2732 Persée author ID
+P4369 Cairn author ID
+P5731 Angelicum ID
+P12098 Kinobox person ID

@@ -1,0 +1,88 @@
+P106 occupation
+P103 native language
+P31 instance of
+P1429 has pet
+P551 residence
+P6081 RIA Novosti reference
+P793 significant event
+P1581 official blog URL
+P5008 on focus list of Wikimedia project
+P735 given name
+P1559 name in native language
+P734 family name
+P1442 image of grave
+P1449 nickname
+P800 notable work
+P25 mother
+P27 country of citizenship
+P373 Commons category
+P3373 sibling
+P1477 birth name
+P5587 Libris-URI
+P463 member of
+P1596 penalty
+P1532 country for sport
+P607 participated in conflict
+P937 work location
+P3602 candidacy in election
+P1412 languages spoken, written or signed
+P569 date of birth
+P641 sport
+P22 father
+P166 award received
+P102 member of political party
+P9037 BHCL UUID
+P119 place of burial
+P18 image
+P1441 present in work
+P101 field of work
+P564 singles record
+P2003 Instagram username
+P2013 Facebook username
+P1344 participant in
+P413 position played on team / speciality
+P6758 supported sports team
+P4839 Wolfram Language entity code
+P20 place of death
+P26 spouse
+P12854 Plex person key
+P39 position held
+P140 religion or worldview
+P2002 X (Twitter) username
+P2354 has list
+P54 member of sports team
+P742 pseudonym
+P1399 convicted of
+P485 archives at
+P6385 Krugosvet article (archived)
+P1196 manner of death
+P410 military or police rank
+P2031 work period (start)
+P1343 described by source
+P69 educated at
+P94 coat of arms image
+P21 sex or gender
+P1066 student of
+P6886 writing language
+P1225 U.S. National Archives Identifier
+P1830 owner of
+P555 doubles record
+P451 unmarried partner
+P40 child
+P1971 number of children
+P935 Commons gallery
+P509 cause of death
+P213 ISNI
+P4602 date of burial or cremation
+P8687 social media followers
+P570 date of death
+P3448 stepparent
+P108 employer
+P19 place of birth
+P443 pronunciation audio
+P1213 NLC authorities
+P910 topic's main category
+P1050 medical condition
+P53 family
+P109 signature
+P1038 relative
