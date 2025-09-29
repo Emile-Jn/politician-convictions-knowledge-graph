@@ -14,3 +14,7 @@
  - [convictions.json](data/convictions.json) : JSON file containing politicians with conviction keywords found in their wikipedia page. Created by [scrape_wikipedia.py](source/scrape_wikipedia.py)
  - [convictions_split.json](data/convictions_split.json) : JSON file containing paragraphs of max 300 words split from [convictions.json](data/convictions.json). Created by [split_paragraphs.py](source/split_paragraphs.py)
  - [conviction_probabilities.json](data/conviction_probabilities.json) : JSON file containing conviction probabilities assigned to paragraphs in [convictions_split.json](data/convictions_split.json). Created by [info_extraction_wikipedia.py](source/info_extraction_wikipedia.py)
+
+Names in `ground_truth.json` are obtained from `conviction_propbabilities.json` which is obtained from `convictions.json` which is obtained from `french_politicians_with_wikipedia.csv` which is obtained from `french_politicians.csv` which is obtained from the sparql query in `fetch-wikipedia-links.py`.
+
+Names in `graph_data.parquet` are obtained from files in `relations/` which are obtained from the sparql query in `fetch_relations.get_useful_relations()`.

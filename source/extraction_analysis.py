@@ -1,10 +1,11 @@
 import json
 import pandas as pd
-from info_extraction_wikipedia import *
+from source.info_extraction_wikipedia import *
 from urllib.parse import unquote
 import os
 from huggingface_hub import InferenceClient
-
+from pathlib import Path
+from source.utils import get_root_dir
 
 def get_highest_probs(probs):
     highest_probs = {}
@@ -111,9 +112,9 @@ def write_to_txt(text: str, filename: str, folder: str = '.'):
         f.write(text)
 
 if __name__ == '__main__':
-    with open('../data/conviction_probabilities.json', 'r') as f:
+    with open(get_root_dir() / 'data' / 'conviction_probabilities.json', 'r') as f:
         probs = json.load(f)
-    with open('../data/convictions_split.json', 'r') as f:
+    with open(get_root_dir() / 'data' / 'convictions_split.json', 'r') as f:
         paragraphs = json.load(f)
 
     highest_paragraphs_df = highest_paragraphs(paragraphs, probs)

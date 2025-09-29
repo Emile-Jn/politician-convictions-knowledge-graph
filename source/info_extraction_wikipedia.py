@@ -4,6 +4,7 @@ import json
 from itertools import islice
 from time import time
 from urllib.parse import unquote
+from source.utils import get_root_dir
 
 # global variable needed
 if torch.backends.mps.is_available():
@@ -150,6 +151,6 @@ def test_json_file():
 if __name__ == '__main__':
     # test_nli_model()
     # test_json_file()
-    with open('../data/convictions.json', 'r', encoding='utf-8') as f:
+    with open(get_root_dir() / 'data' / 'convictions.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     probs = process_all(data)
