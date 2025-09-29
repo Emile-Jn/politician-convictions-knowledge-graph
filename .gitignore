@@ -1,4 +1,10 @@
 
+# Relations folder is too large
+data/relations/
+
+# CSV is redundant
+data/graph_data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
