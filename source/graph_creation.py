@@ -77,26 +77,28 @@ def graph_from_parquet(verbose: bool = False) -> nx.MultiDiGraph:
         # Add an edge with property and propertyLabel as attributes
         G.add_edge(person, value, key=property, propertyLabel=propertyLabel)
 
-    # Add ground truth labels to politician nodes
+    # Step 1: Initialize 'convicted' attribute for all nodes
+    nx.set_node_attributes(G, {n: None for n in G.nodes()}, "convicted")
+
+    # Step 2: Set all politicians to False (not convicted)
+    for node, data in G.nodes(data=True):
+        if data.get("type") == "politician":
+            G.nodes[node]["convicted"] = False
+
+    # Step 3: Update convicted politicians using ground_truth
     name_not_found = 0
     for name, value in ground_truth.items():
-        # Try matching by label instead of node ID
-        found = False
-        for node, data in G.nodes(data=True):
-            if data.get('label') == name:
-                G.nodes[node]['convicted'] = value
-                found = True
-                break
-        if not found:
-            name_not_found += 1
-    print(f"Ground truth labels added. Names not found in graph: {name_not_found}/{len(ground_truth)}")
-
-    # All politicians without a section mentioning conviction on their wikipedia page are
-    # assumed to be not convicted (False)
-    for node in G.nodes:
-        if 'convicted' not in G.nodes[node]:
-            G.nodes[node]['convicted'] = False
+        if value:  # only set True if ground truth says convicted
+            found = False
+            for node, data in G.nodes(data=True):
+                if data.get("label") == name:
+                    G.nodes[node]["convicted"] = True
+                    found = True
+                    break
+            if not found:
+                name_not_found += 1
     if verbose:
+        print(f"Ground truth labels added. Names not found in graph: {name_not_found}/{len(ground_truth)}")
         print(f"Graph created with {G.number_of_nodes()} nodes and {G.number_of_edges()} edges.")
     return G
 
@@ -121,4 +123,4 @@ if __name__ == "__main__":
     # Save the graph to a file
 
     output_file = get_root_dir() / "data" / "graph.gpickle"
-    # save_graph_pickle(G, output_file)
+    save_graph_pickle(G, output_file)

@@ -153,4 +153,4 @@ if __name__ == '__main__':
     # test_json_file()
     with open(get_root_dir() / 'data' / 'convictions.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
-    probs = process_all(data)
+    # probs = process_all(data)

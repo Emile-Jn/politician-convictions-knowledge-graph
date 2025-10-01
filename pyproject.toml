@@ -1,0 +1,17 @@
+[project]
+name = "politician-convictions-knowledge-graph"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "networkx>=3.5",
+    "node2vec>=0.5.0",
+    "numpy>=1.26.4",
+    "pandas>=2.3.3",
+    "pykeen>=1.11.1",
+    "scikit-learn>=1.7.2",
+    "torch>=2.8.0",
+    "torch-geometric>=2.6.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.56.2",
+]
